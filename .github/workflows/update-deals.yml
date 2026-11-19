@@ -1,0 +1,38 @@
+name: Update GameVault Deals & PS Plus (DE)
+
+on:
+  schedule:
+    # Läuft jeden Morgen um 06:00 UTC (07:00 Uhr MEZ / 08:00 Uhr MESZ)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-deals:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js 20 einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Steam Sales, PS Store DE Sales & PS Plus abrufen
+        run: node scripts/fetch-deals.mjs
+
+      - name: Aktualisierte deals.json speichern
+        run: |
+          git config user.name "GameVault Deals Bot"
+          git config user.email "actions@github.com"
+          git add deals.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen in deals.json."
+          else
+            git commit -m "chore: update Steam, PS Store & PS Plus deals ($(date +'%Y-%m-%d'))"
+            git push
+          fi
