@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "schemaVersion": 3,
+  "updatedAt": "2026-11-19T11:03:45Z",
+  "region": "DE",
+  "currency": "EUR",
+  "sources": {
+    "steam": false,
+    "psStore": false,
+    "psPlus": true
+  },
+  "steamSales": {},
+  "psSales": {},
+  "psPlus": {},
+  "titleIndex": {}
+}

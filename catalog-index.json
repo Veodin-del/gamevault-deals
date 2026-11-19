@@ -1,0 +1,6916 @@
+[
+  {
+    "id": "g1",
+    "title": "The Witcher 3: Wild Hunt",
+    "year": 2015,
+    "releaseDate": "19.05.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 292030
+  },
+  {
+    "id": "g_yotei",
+    "title": "Ghost of Yōtei (Ghost of Yotei)",
+    "year": 2025,
+    "releaseDate": "02.10.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "g2",
+    "title": "Gothic II: Die Nacht des Raben",
+    "year": 2002,
+    "releaseDate": "29.11.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 39510
+  },
+  {
+    "id": "g3",
+    "title": "Gothic",
+    "year": 2001,
+    "releaseDate": "15.03.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 65540
+  },
+  {
+    "id": "g4",
+    "title": "Red Dead Redemption 2",
+    "year": 2018,
+    "releaseDate": "26.10.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1174180
+  },
+  {
+    "id": "g5",
+    "title": "Baldur's Gate 3",
+    "year": 2023,
+    "releaseDate": "03.08.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1086940
+  },
+  {
+    "id": "g6",
+    "title": "Elden Ring",
+    "year": 2022,
+    "releaseDate": "25.02.2022",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1245620
+  },
+  {
+    "id": "g7",
+    "title": "Cyberpunk 2077: Phantom Liberty",
+    "year": 2020,
+    "releaseDate": "10.12.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 1091500
+  },
+  {
+    "id": "g8",
+    "title": "Kingdom Come: Deliverance II",
+    "year": 2025,
+    "releaseDate": "04.02.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1771300
+  },
+  {
+    "id": "g9",
+    "title": "Kingdom Come: Deliverance",
+    "year": 2018,
+    "releaseDate": "13.02.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 379430
+  },
+  {
+    "id": "g10",
+    "title": "The Last of Us Part I",
+    "year": 2013,
+    "releaseDate": "14.06.2013",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1888930
+  },
+  {
+    "id": "g11",
+    "title": "God of War Ragnarök",
+    "year": 2022,
+    "releaseDate": "09.11.2022",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 2322010
+  },
+  {
+    "id": "g12",
+    "title": "God of War (2018)",
+    "year": 2018,
+    "releaseDate": "20.04.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1593500
+  },
+  {
+    "id": "g13",
+    "title": "Grand Theft Auto V",
+    "year": 2013,
+    "releaseDate": "17.09.2013",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 271590
+  },
+  {
+    "id": "g14",
+    "title": "Grand Theft Auto: San Andreas",
+    "year": 2004,
+    "releaseDate": "26.10.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "PS3",
+      "PS4"
+    ],
+    "steamId": 12120
+  },
+  {
+    "id": "g15",
+    "title": "Half-Life 2",
+    "year": 2004,
+    "releaseDate": "16.11.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS3"
+    ],
+    "steamId": 220
+  },
+  {
+    "id": "g16",
+    "title": "Half-Life",
+    "year": 1998,
+    "releaseDate": "19.11.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2"
+    ],
+    "steamId": 70
+  },
+  {
+    "id": "g17",
+    "title": "The Elder Scrolls V: Skyrim",
+    "year": 2011,
+    "releaseDate": "11.11.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 489830
+  },
+  {
+    "id": "g18",
+    "title": "Mass Effect 2",
+    "year": 2010,
+    "releaseDate": "26.01.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 24980
+  },
+  {
+    "id": "g19",
+    "title": "Diablo II: Lord of Destruction",
+    "year": 2000,
+    "releaseDate": "29.06.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "g20",
+    "title": "StarCraft: Brood War",
+    "year": 1998,
+    "releaseDate": "30.11.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "g21",
+    "title": "Warcraft III: The Frozen Throne",
+    "year": 2003,
+    "releaseDate": "01.07.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "g22",
+    "title": "Age of Empires II: The Age of Kings",
+    "year": 1999,
+    "releaseDate": "30.09.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 813780
+  },
+  {
+    "id": "g23",
+    "title": "Anno 1800",
+    "year": 2019,
+    "releaseDate": "16.04.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 916440
+  },
+  {
+    "id": "g24",
+    "title": "Metal Gear Solid",
+    "year": 1998,
+    "releaseDate": "03.09.1998",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS3",
+      "PS5",
+      "Nintendo"
+    ],
+    "steamId": 2131630
+  },
+  {
+    "id": "g25",
+    "title": "Final Fantasy VII",
+    "year": 1997,
+    "releaseDate": "31.01.1997",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 39140
+  },
+  {
+    "id": "g26",
+    "title": "Resident Evil 2 (Original)",
+    "year": 1998,
+    "releaseDate": "21.01.1998",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "g27",
+    "title": "Resident Evil 4 (Remake)",
+    "year": 2023,
+    "releaseDate": "24.03.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2050650
+  },
+  {
+    "id": "g28",
+    "title": "BioShock",
+    "year": 2007,
+    "releaseDate": "21.08.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 7670
+  },
+  {
+    "id": "g29",
+    "title": "Portal 2",
+    "year": 2011,
+    "releaseDate": "18.04.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 620
+  },
+  {
+    "id": "g30",
+    "title": "Dark Souls III",
+    "year": 2016,
+    "releaseDate": "24.03.2016",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 374320
+  },
+  {
+    "id": "p1_1",
+    "title": "Victoria 3",
+    "year": 2022,
+    "releaseDate": "25.10.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 529340
+  },
+  {
+    "id": "p1_2",
+    "title": "Crusader Kings III",
+    "year": 2020,
+    "releaseDate": "01.09.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1158310
+  },
+  {
+    "id": "p1_3",
+    "title": "Stellaris",
+    "year": 2016,
+    "releaseDate": "09.05.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 281990
+  },
+  {
+    "id": "p1_4",
+    "title": "Europa Universalis IV",
+    "year": 2013,
+    "releaseDate": "13.08.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 236850
+  },
+  {
+    "id": "p1_5",
+    "title": "Hearts of Iron IV",
+    "year": 2016,
+    "releaseDate": "06.06.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 394360
+  },
+  {
+    "id": "p1_6",
+    "title": "Anno 1404: Venedig",
+    "year": 2009,
+    "releaseDate": "25.06.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 33210
+  },
+  {
+    "id": "p1_7",
+    "title": "Anno 1602",
+    "year": 1998,
+    "releaseDate": "24.09.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2064980
+  },
+  {
+    "id": "p1_8",
+    "title": "Anno 1503",
+    "year": 2002,
+    "releaseDate": "25.10.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2065000
+  },
+  {
+    "id": "p1_9",
+    "title": "Die Siedler II: Veni, Vidi, Vici",
+    "year": 1996,
+    "releaseDate": "17.04.1996",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2065060
+  },
+  {
+    "id": "p1_10",
+    "title": "Die Siedler III",
+    "year": 1998,
+    "releaseDate": "20.11.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2065090
+  },
+  {
+    "id": "p1_11",
+    "title": "Command & Conquer: Alarmstufe Rot 2",
+    "year": 2000,
+    "releaseDate": "23.10.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2229850
+  },
+  {
+    "id": "p1_12",
+    "title": "Command & Conquer: Tiberian Sun",
+    "year": 1999,
+    "releaseDate": "27.08.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2229880
+  },
+  {
+    "id": "p1_13",
+    "title": "Command & Conquer: Generals",
+    "year": 2003,
+    "releaseDate": "10.02.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2229870
+  },
+  {
+    "id": "p1_14",
+    "title": "Stronghold Crusader",
+    "year": 2002,
+    "releaseDate": "25.09.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 40970
+  },
+  {
+    "id": "p1_15",
+    "title": "Gothic 3",
+    "year": 2006,
+    "releaseDate": "13.10.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 39500
+  },
+  {
+    "id": "p1_16",
+    "title": "Risen",
+    "year": 2009,
+    "releaseDate": "02.10.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS4",
+      "Nintendo"
+    ],
+    "steamId": 40300
+  },
+  {
+    "id": "p1_17",
+    "title": "ELEX",
+    "year": 2017,
+    "releaseDate": "17.10.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 411300
+  },
+  {
+    "id": "p1_18",
+    "title": "Anstoss 3",
+    "year": 2000,
+    "releaseDate": "14.02.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p1_19",
+    "title": "The Secret of Monkey Island",
+    "year": 1990,
+    "releaseDate": "15.10.1990",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 32360
+  },
+  {
+    "id": "p1_20",
+    "title": "Monkey Island 2: LeChuck's Revenge",
+    "year": 1991,
+    "releaseDate": "12.12.1991",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 32460
+  },
+  {
+    "id": "p1_21",
+    "title": "Day of the Tentacle",
+    "year": 1993,
+    "releaseDate": "25.06.1993",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4"
+    ],
+    "steamId": 388210
+  },
+  {
+    "id": "p1_22",
+    "title": "Indiana Jones and the Fate of Atlantis",
+    "year": 1992,
+    "releaseDate": "05.06.1992",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 6010
+  },
+  {
+    "id": "p1_23",
+    "title": "Deus Ex",
+    "year": 2000,
+    "releaseDate": "23.06.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2"
+    ],
+    "steamId": 6910
+  },
+  {
+    "id": "p1_24",
+    "title": "System Shock 2",
+    "year": 1999,
+    "releaseDate": "11.08.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 238210
+  },
+  {
+    "id": "p1_25",
+    "title": "Baldur's Gate II: Shadows of Amn",
+    "year": 2000,
+    "releaseDate": "21.09.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 257350
+  },
+  {
+    "id": "p1_26",
+    "title": "Star Wars: Knights of the Old Republic",
+    "year": 2003,
+    "releaseDate": "15.07.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 32370
+  },
+  {
+    "id": "p1_27",
+    "title": "The Elder Scrolls III: Morrowind",
+    "year": 2002,
+    "releaseDate": "01.05.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 22320
+  },
+  {
+    "id": "p1_28",
+    "title": "The Elder Scrolls IV: Oblivion",
+    "year": 2006,
+    "releaseDate": "20.03.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 22330
+  },
+  {
+    "id": "p1_29",
+    "title": "Fallout: New Vegas",
+    "year": 2010,
+    "releaseDate": "19.10.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 22380
+  },
+  {
+    "id": "p1_30",
+    "title": "Civilization IV",
+    "year": 2005,
+    "releaseDate": "25.10.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 3900
+  },
+  {
+    "id": "p1_31",
+    "title": "Civilization VI",
+    "year": 2016,
+    "releaseDate": "21.10.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 289070
+  },
+  {
+    "id": "p1_32",
+    "title": "Rome: Total War",
+    "year": 2004,
+    "releaseDate": "22.09.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 4760
+  },
+  {
+    "id": "p1_33",
+    "title": "Medieval II: Total War",
+    "year": 2006,
+    "releaseDate": "10.11.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 4700
+  },
+  {
+    "id": "p1_34",
+    "title": "SimCity 4",
+    "year": 2003,
+    "releaseDate": "14.01.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 24780
+  },
+  {
+    "id": "p1_35",
+    "title": "Cities: Skylines",
+    "year": 2015,
+    "releaseDate": "10.03.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 255710
+  },
+  {
+    "id": "p1_36",
+    "title": "Crysis",
+    "year": 2007,
+    "releaseDate": "13.11.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 17300
+  },
+  {
+    "id": "p1_37",
+    "title": "Far Cry",
+    "year": 2004,
+    "releaseDate": "23.03.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 13520
+  },
+  {
+    "id": "p1_38",
+    "title": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "year": 2007,
+    "releaseDate": "20.03.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 4500
+  },
+  {
+    "id": "p1_39",
+    "title": "Mafia: The City of Lost Heaven",
+    "year": 2002,
+    "releaseDate": "28.08.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 40990
+  },
+  {
+    "id": "p1_40",
+    "title": "Max Payne",
+    "year": 2001,
+    "releaseDate": "23.07.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 12140
+  },
+  {
+    "id": "p1_41",
+    "title": "Unreal Tournament (1999)",
+    "year": 1999,
+    "releaseDate": "22.11.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2"
+    ],
+    "steamId": 13240
+  },
+  {
+    "id": "p1_42",
+    "title": "Quake III Arena",
+    "year": 1999,
+    "releaseDate": "02.12.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 2200
+  },
+  {
+    "id": "p1_43",
+    "title": "DOOM II",
+    "year": 1994,
+    "releaseDate": "30.09.1994",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS1",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2300
+  },
+  {
+    "id": "p1_44",
+    "title": "Manor Lords",
+    "year": 2024,
+    "releaseDate": "26.04.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1363080
+  },
+  {
+    "id": "p1_45",
+    "title": "Anno 2070",
+    "year": 2011,
+    "releaseDate": "17.11.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 48240
+  },
+  {
+    "id": "p1_46",
+    "title": "Anno 117: Pax Romana",
+    "year": 2025,
+    "releaseDate": "13.11.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 3274580
+  },
+  {
+    "id": "p1_47",
+    "title": "Die Siedler IV",
+    "year": 2001,
+    "releaseDate": "15.02.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2065120
+  },
+  {
+    "id": "p1_48",
+    "title": "SpellForce: The Order of Dawn",
+    "year": 2003,
+    "releaseDate": "14.11.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 39540
+  },
+  {
+    "id": "p1_49",
+    "title": "Desperados: Wanted Dead or Alive",
+    "year": 2001,
+    "releaseDate": "20.04.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 260730
+  },
+  {
+    "id": "p1_50",
+    "title": "Commandos 2: Men of Courage",
+    "year": 2001,
+    "releaseDate": "21.09.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 6830
+  },
+  {
+    "id": "p2_1",
+    "title": "Gran Turismo 2",
+    "year": 1999,
+    "releaseDate": "11.12.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_2",
+    "title": "Gran Turismo 4",
+    "year": 2004,
+    "releaseDate": "28.12.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_3",
+    "title": "Silent Hill 2",
+    "year": 2001,
+    "releaseDate": "24.09.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_4",
+    "title": "Silent Hill",
+    "year": 1999,
+    "releaseDate": "31.01.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_5",
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "year": 2004,
+    "releaseDate": "17.11.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2131650
+  },
+  {
+    "id": "p2_6",
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "year": 2001,
+    "releaseDate": "13.11.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "PS3",
+      "PS5"
+    ],
+    "steamId": 2131640
+  },
+  {
+    "id": "p2_7",
+    "title": "Final Fantasy X",
+    "year": 2001,
+    "releaseDate": "19.07.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 359870
+  },
+  {
+    "id": "p2_8",
+    "title": "Final Fantasy VIII",
+    "year": 1999,
+    "releaseDate": "11.02.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 39150
+  },
+  {
+    "id": "p2_9",
+    "title": "Final Fantasy IX",
+    "year": 2000,
+    "releaseDate": "07.07.2000",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 377840
+  },
+  {
+    "id": "p2_10",
+    "title": "Tekken 3",
+    "year": 1998,
+    "releaseDate": "26.03.1998",
+    "platform": "PS1",
+    "platforms": [
+      "PS1"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_11",
+    "title": "Tekken 5",
+    "year": 2005,
+    "releaseDate": "24.02.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_12",
+    "title": "Crash Bandicoot 3: Warped",
+    "year": 1998,
+    "releaseDate": "31.10.1998",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 731490
+  },
+  {
+    "id": "p2_13",
+    "title": "Crash Team Racing",
+    "year": 1999,
+    "releaseDate": "30.09.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_14",
+    "title": "Spyro: Year of the Dragon",
+    "year": 2000,
+    "releaseDate": "10.10.2000",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 996580
+  },
+  {
+    "id": "p2_15",
+    "title": "Tony Hawk's Pro Skater 2",
+    "year": 2000,
+    "releaseDate": "20.09.2000",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_16",
+    "title": "Castlevania: Symphony of the Night",
+    "year": 1997,
+    "releaseDate": "20.03.1997",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_17",
+    "title": "Resident Evil (1996)",
+    "year": 1996,
+    "releaseDate": "22.03.1996",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 304240
+  },
+  {
+    "id": "p2_18",
+    "title": "Resident Evil 3: Nemesis",
+    "year": 1999,
+    "releaseDate": "22.09.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_19",
+    "title": "Dino Crisis",
+    "year": 1999,
+    "releaseDate": "01.07.1999",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_20",
+    "title": "Shadow of the Colossus",
+    "year": 2005,
+    "releaseDate": "18.10.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_21",
+    "title": "Grand Theft Auto: Vice City",
+    "year": 2002,
+    "releaseDate": "29.10.2002",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "PS4",
+      "PS5"
+    ],
+    "steamId": 12110
+  },
+  {
+    "id": "p2_22",
+    "title": "Grand Theft Auto III",
+    "year": 2001,
+    "releaseDate": "22.10.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "PS4",
+      "PS5"
+    ],
+    "steamId": 12100
+  },
+  {
+    "id": "p2_23",
+    "title": "Need for Speed: Underground 2",
+    "year": 2004,
+    "releaseDate": "09.11.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_24",
+    "title": "Need for Speed: Most Wanted (2005)",
+    "year": 2005,
+    "releaseDate": "15.11.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_25",
+    "title": "Burnout 3: Takedown",
+    "year": 2004,
+    "releaseDate": "07.09.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_26",
+    "title": "Devil May Cry 3: Dante's Awakening",
+    "year": 2005,
+    "releaseDate": "17.02.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 631510
+  },
+  {
+    "id": "p2_27",
+    "title": "Kingdom Hearts II",
+    "year": 2005,
+    "releaseDate": "22.12.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2552430
+  },
+  {
+    "id": "p2_28",
+    "title": "Ratchet & Clank: Up Your Arsenal",
+    "year": 2004,
+    "releaseDate": "03.11.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_29",
+    "title": "Jak and Daxter: The Precursor Legacy",
+    "year": 2001,
+    "releaseDate": "03.12.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS3",
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p2_30",
+    "title": "Pro Evolution Soccer 6",
+    "year": 2006,
+    "releaseDate": "26.10.2006",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_1",
+    "title": "Star Wars Jedi: Survivor",
+    "year": 2023,
+    "releaseDate": "28.04.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1774580
+  },
+  {
+    "id": "p3_2",
+    "title": "Star Wars Jedi: Fallen Order",
+    "year": 2019,
+    "releaseDate": "15.11.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1172380
+  },
+  {
+    "id": "p3_3",
+    "title": "Horizon Forbidden West",
+    "year": 2022,
+    "releaseDate": "18.02.2022",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 2420110
+  },
+  {
+    "id": "p3_4",
+    "title": "Horizon Zero Dawn",
+    "year": 2017,
+    "releaseDate": "28.02.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1151640
+  },
+  {
+    "id": "p3_6",
+    "title": "Ghost of Tsushima: Director's Cut",
+    "year": 2020,
+    "releaseDate": "17.07.2020",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 2215430
+  },
+  {
+    "id": "p3_7",
+    "title": "Gran Turismo 7",
+    "year": 2022,
+    "releaseDate": "04.03.2022",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_8",
+    "title": "Bloodborne",
+    "year": 2015,
+    "releaseDate": "24.03.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_9",
+    "title": "Uncharted 2: Among Thieves",
+    "year": 2009,
+    "releaseDate": "13.10.2009",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_10",
+    "title": "Uncharted 4: A Thief's End",
+    "year": 2016,
+    "releaseDate": "10.05.2016",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1659420
+  },
+  {
+    "id": "p3_11",
+    "title": "The Last of Us Part II",
+    "year": 2020,
+    "releaseDate": "19.06.2020",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2531310
+  },
+  {
+    "id": "p3_12",
+    "title": "Marvel's Spider-Man 2",
+    "year": 2023,
+    "releaseDate": "20.10.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2651280
+  },
+  {
+    "id": "p3_13",
+    "title": "Astro Bot",
+    "year": 2024,
+    "releaseDate": "06.09.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_14",
+    "title": "Demon's Souls (Remake)",
+    "year": 2020,
+    "releaseDate": "12.11.2020",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_15",
+    "title": "Sekiro: Shadows Die Twice",
+    "year": 2019,
+    "releaseDate": "22.03.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 814380
+  },
+  {
+    "id": "p3_16",
+    "title": "Persona 5 Royal",
+    "year": 2019,
+    "releaseDate": "31.10.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1687950
+  },
+  {
+    "id": "p3_17",
+    "title": "Final Fantasy VII Rebirth",
+    "year": 2024,
+    "releaseDate": "29.02.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2909400
+  },
+  {
+    "id": "p3_18",
+    "title": "Returnal",
+    "year": 2021,
+    "releaseDate": "30.04.2021",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1649240
+  },
+  {
+    "id": "p3_19",
+    "title": "Death Stranding",
+    "year": 2019,
+    "releaseDate": "08.11.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1850570
+  },
+  {
+    "id": "p3_20",
+    "title": "Detroit: Become Human",
+    "year": 2018,
+    "releaseDate": "25.05.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "steamId": 1222140
+  },
+  {
+    "id": "p3_21",
+    "title": "Batman: Arkham City",
+    "year": 2011,
+    "releaseDate": "18.10.2011",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 200260
+  },
+  {
+    "id": "p3_22",
+    "title": "Red Dead Redemption",
+    "year": 2010,
+    "releaseDate": "18.05.2010",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2668510
+  },
+  {
+    "id": "p3_23",
+    "title": "Silent Hill 2 (Remake)",
+    "year": 2024,
+    "releaseDate": "08.10.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2124490
+  },
+  {
+    "id": "p3_24",
+    "title": "Alan Wake 2",
+    "year": 2023,
+    "releaseDate": "27.10.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p3_25",
+    "title": "Resident Evil Village",
+    "year": 2021,
+    "releaseDate": "07.05.2021",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1196590
+  },
+  {
+    "id": "p4_1",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "year": 1998,
+    "releaseDate": "21.11.1998",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_2",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "year": 2017,
+    "releaseDate": "03.03.2017",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_3",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "year": 1991,
+    "releaseDate": "21.11.1991",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_4",
+    "title": "Super Mario World",
+    "year": 1990,
+    "releaseDate": "21.11.1990",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_5",
+    "title": "Super Mario 64",
+    "year": 1996,
+    "releaseDate": "23.06.1996",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_6",
+    "title": "Super Mario Odyssey",
+    "year": 2017,
+    "releaseDate": "27.10.2017",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_7",
+    "title": "Super Metroid",
+    "year": 1994,
+    "releaseDate": "19.03.1994",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_8",
+    "title": "Chrono Trigger",
+    "year": 1995,
+    "releaseDate": "11.03.1995",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PS1",
+      "PC"
+    ],
+    "steamId": 613830
+  },
+  {
+    "id": "p4_9",
+    "title": "Secret of Mana",
+    "year": 1993,
+    "releaseDate": "06.08.1993",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 637670
+  },
+  {
+    "id": "p4_10",
+    "title": "Terranigma",
+    "year": 1995,
+    "releaseDate": "20.10.1995",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_11",
+    "title": "Donkey Kong Country 2",
+    "year": 1995,
+    "releaseDate": "20.11.1995",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_12",
+    "title": "Mario Kart 8 Deluxe",
+    "year": 2017,
+    "releaseDate": "28.04.2017",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_13",
+    "title": "Halo: Combat Evolved",
+    "year": 2001,
+    "releaseDate": "15.11.2001",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 976730
+  },
+  {
+    "id": "p4_14",
+    "title": "Halo 3",
+    "year": 2007,
+    "releaseDate": "25.09.2007",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 1064271
+  },
+  {
+    "id": "p4_15",
+    "title": "Gears of War 2",
+    "year": 2008,
+    "releaseDate": "07.11.2008",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p4_16",
+    "title": "Forza Horizon 5",
+    "year": 2021,
+    "releaseDate": "09.11.2021",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC",
+      "PS5"
+    ],
+    "steamId": 1551360
+  },
+  {
+    "id": "p5_1",
+    "title": "Football Manager 2024",
+    "year": 2023,
+    "releaseDate": "06.11.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2252570
+  },
+  {
+    "id": "p5_2",
+    "title": "Football Manager 26",
+    "year": 2025,
+    "releaseDate": "04.11.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p5_16",
+    "title": "Football Manager 27",
+    "year": 2026,
+    "releaseDate": "10.11.2026",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p5_3",
+    "title": "Disco Elysium: The Final Cut",
+    "year": 2019,
+    "releaseDate": "15.10.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 632470
+  },
+  {
+    "id": "p5_4",
+    "title": "Hollow Knight",
+    "year": 2017,
+    "releaseDate": "24.02.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 367520
+  },
+  {
+    "id": "p5_5",
+    "title": "Hades",
+    "year": 2020,
+    "releaseDate": "17.09.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1145360
+  },
+  {
+    "id": "p5_6",
+    "title": "Hades II",
+    "year": 2024,
+    "releaseDate": "06.05.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Nintendo"
+    ],
+    "steamId": 1145350
+  },
+  {
+    "id": "p5_7",
+    "title": "Stardew Valley",
+    "year": 2016,
+    "releaseDate": "26.02.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 413150
+  },
+  {
+    "id": "p5_8",
+    "title": "Subnautica",
+    "year": 2018,
+    "releaseDate": "23.01.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 264710
+  },
+  {
+    "id": "p5_9",
+    "title": "XCOM 2: War of the Chosen",
+    "year": 2017,
+    "releaseDate": "29.08.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 268500
+  },
+  {
+    "id": "p5_10",
+    "title": "Factorio",
+    "year": 2020,
+    "releaseDate": "14.08.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 427520
+  },
+  {
+    "id": "p5_11",
+    "title": "RimWorld",
+    "year": 2018,
+    "releaseDate": "17.10.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 294100
+  },
+  {
+    "id": "p5_12",
+    "title": "Dead Cells",
+    "year": 2018,
+    "releaseDate": "07.08.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 588650
+  },
+  {
+    "id": "p5_13",
+    "title": "Ori and the Will of the Wisps",
+    "year": 2020,
+    "releaseDate": "11.03.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1057090
+  },
+  {
+    "id": "p5_14",
+    "title": "Balatro",
+    "year": 2024,
+    "releaseDate": "20.02.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2379780
+  },
+  {
+    "id": "p5_15",
+    "title": "Slay the Spire",
+    "year": 2019,
+    "releaseDate": "23.01.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 646570
+  },
+  {
+    "id": "p6_1",
+    "title": "Grand Theft Auto VI (GTA 6)",
+    "year": 2026,
+    "releaseDate": "19.11.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p6_2",
+    "title": "Black Myth: Wukong",
+    "year": 2024,
+    "releaseDate": "20.08.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2358720
+  },
+  {
+    "id": "p6_3",
+    "title": "Helldivers 2",
+    "year": 2024,
+    "releaseDate": "08.02.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 553850
+  },
+  {
+    "id": "p6_4",
+    "title": "Warhammer 40,000: Space Marine 2",
+    "year": 2024,
+    "releaseDate": "09.09.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2183900
+  },
+  {
+    "id": "p6_5",
+    "title": "Dragon's Dogma 2",
+    "year": 2024,
+    "releaseDate": "22.03.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2054970
+  },
+  {
+    "id": "p6_6",
+    "title": "Metaphor: ReFantazio",
+    "year": 2024,
+    "releaseDate": "11.10.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2679460
+  },
+  {
+    "id": "p6_7",
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "year": 2024,
+    "releaseDate": "20.11.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "steamId": 1643320
+  },
+  {
+    "id": "p6_8",
+    "title": "Sons of the Forest",
+    "year": 2024,
+    "releaseDate": "22.02.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1326470
+  },
+  {
+    "id": "p6_9",
+    "title": "Project Zomboid",
+    "year": 2013,
+    "releaseDate": "08.11.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 108600
+  },
+  {
+    "id": "p6_10",
+    "title": "Valheim",
+    "year": 2021,
+    "releaseDate": "02.02.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 892970
+  },
+  {
+    "id": "p6_11",
+    "title": "Enshrouded",
+    "year": 2024,
+    "releaseDate": "24.01.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1203620
+  },
+  {
+    "id": "p6_12",
+    "title": "Deep Rock Galactic",
+    "year": 2020,
+    "releaseDate": "13.05.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 548430
+  },
+  {
+    "id": "p6_13",
+    "title": "Lethal Company",
+    "year": 2023,
+    "releaseDate": "23.10.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1966720
+  },
+  {
+    "id": "p6_14",
+    "title": "Borderlands 2",
+    "year": 2012,
+    "releaseDate": "18.09.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 397540
+  },
+  {
+    "id": "p6_15",
+    "title": "Sea of Thieves",
+    "year": 2018,
+    "releaseDate": "20.03.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "steamId": 1172620
+  },
+  {
+    "id": "p6_16",
+    "title": "Microsoft Flight Simulator 2024",
+    "year": 2024,
+    "releaseDate": "19.11.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2537590
+  },
+  {
+    "id": "p6_17",
+    "title": "Indiana Jones und der Große Kreis",
+    "year": 2024,
+    "releaseDate": "09.12.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "steamId": 2677660
+  },
+  {
+    "id": "p6_18",
+    "title": "Clair Obscur: Expedition 33",
+    "year": 2025,
+    "releaseDate": "24.04.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1903340
+  },
+  {
+    "id": "p6_19",
+    "title": "Monster Hunter Wilds",
+    "year": 2025,
+    "releaseDate": "28.02.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2246340
+  },
+  {
+    "id": "p6_20",
+    "title": "DOOM: The Dark Ages",
+    "year": 2025,
+    "releaseDate": "15.05.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 3017860
+  },
+  {
+    "id": "p6_21",
+    "title": "Ready or Not",
+    "year": 2023,
+    "releaseDate": "13.12.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1144200
+  },
+  {
+    "id": "p6_22",
+    "title": "Outer Wilds",
+    "year": 2019,
+    "releaseDate": "28.05.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 753640
+  },
+  {
+    "id": "p6_23",
+    "title": "Hogwarts Legacy",
+    "year": 2023,
+    "releaseDate": "10.02.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 990080
+  },
+  {
+    "id": "p6_24",
+    "title": "Marvel's Spider-Man Remastered",
+    "year": 2018,
+    "releaseDate": "07.09.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1817070
+  },
+  {
+    "id": "p6_25",
+    "title": "Death Stranding 2: On the Beach",
+    "year": 2025,
+    "releaseDate": "26.06.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "p6_26",
+    "title": "Mafia: The Old Country",
+    "year": 2025,
+    "releaseDate": "08.08.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1941540
+  },
+  {
+    "id": "p6_27",
+    "title": "The Witcher (Enhanced Edition)",
+    "year": 2007,
+    "releaseDate": "26.10.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 20900
+  },
+  {
+    "id": "p6_28",
+    "title": "The Witcher 2: Assassins of Kings",
+    "year": 2011,
+    "releaseDate": "17.05.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 20920
+  },
+  {
+    "id": "p6_29",
+    "title": "Dragon Age: Origins",
+    "year": 2009,
+    "releaseDate": "03.11.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 47810
+  },
+  {
+    "id": "p6_30",
+    "title": "Hollow Knight: Silksong",
+    "year": 2025,
+    "releaseDate": "04.09.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1030300
+  },
+  {
+    "id": "e_rpg1",
+    "title": "Divinity: Original Sin II",
+    "year": 2017,
+    "releaseDate": "14.09.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 435150
+  },
+  {
+    "id": "e_rpg2",
+    "title": "Divinity: Original Sin (Enhanced Edition)",
+    "year": 2014,
+    "releaseDate": "30.06.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 373420
+  },
+  {
+    "id": "e_rpg3",
+    "title": "Mass Effect",
+    "year": 2007,
+    "releaseDate": "20.11.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 17460
+  },
+  {
+    "id": "e_rpg4",
+    "title": "Mass Effect 3",
+    "year": 2012,
+    "releaseDate": "06.03.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 1238020
+  },
+  {
+    "id": "e_rpg5",
+    "title": "Mass Effect Legendary Edition",
+    "year": 2021,
+    "releaseDate": "14.05.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1328670
+  },
+  {
+    "id": "e_rpg6",
+    "title": "Dragon Age: Inquisition",
+    "year": 2014,
+    "releaseDate": "18.11.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 1222690
+  },
+  {
+    "id": "e_rpg7",
+    "title": "Dragon Age II",
+    "year": 2011,
+    "releaseDate": "08.03.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 1238040
+  },
+  {
+    "id": "e_rpg8",
+    "title": "Star Wars: Knights of the Old Republic II",
+    "year": 2004,
+    "releaseDate": "06.12.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 208580
+  },
+  {
+    "id": "e_rpg9",
+    "title": "Planescape: Torment",
+    "year": 1999,
+    "releaseDate": "12.12.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 466300
+  },
+  {
+    "id": "e_rpg10",
+    "title": "Neverwinter Nights: Enhanced Edition",
+    "year": 2002,
+    "releaseDate": "18.06.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 704450
+  },
+  {
+    "id": "e_rpg11",
+    "title": "Icewind Dale: Enhanced Edition",
+    "year": 2000,
+    "releaseDate": "29.06.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 321800
+  },
+  {
+    "id": "e_rpg12",
+    "title": "Pillars of Eternity",
+    "year": 2015,
+    "releaseDate": "26.03.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 291650
+  },
+  {
+    "id": "e_rpg13",
+    "title": "Pillars of Eternity II: Deadfire",
+    "year": 2018,
+    "releaseDate": "08.05.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 560130
+  },
+  {
+    "id": "e_rpg14",
+    "title": "Pathfinder: Wrath of the Righteous",
+    "year": 2021,
+    "releaseDate": "02.09.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1184370
+  },
+  {
+    "id": "e_rpg15",
+    "title": "Pathfinder: Kingmaker",
+    "year": 2018,
+    "releaseDate": "25.09.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 640820
+  },
+  {
+    "id": "e_rpg16",
+    "title": "Warhammer 40,000: Rogue Trader",
+    "year": 2023,
+    "releaseDate": "07.12.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 2186680
+  },
+  {
+    "id": "e_rpg17",
+    "title": "Diablo (1996)",
+    "year": 1996,
+    "releaseDate": "31.12.1996",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS1"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rpg18",
+    "title": "Diablo III: Reaper of Souls",
+    "year": 2012,
+    "releaseDate": "15.05.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rpg19",
+    "title": "Diablo IV",
+    "year": 2023,
+    "releaseDate": "05.06.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 2344520
+  },
+  {
+    "id": "e_rpg20",
+    "title": "Path of Exile",
+    "year": 2013,
+    "releaseDate": "23.10.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 238960
+  },
+  {
+    "id": "e_rpg21",
+    "title": "Path of Exile 2",
+    "year": 2024,
+    "releaseDate": "06.12.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 2694490
+  },
+  {
+    "id": "e_rpg22",
+    "title": "Grim Dawn",
+    "year": 2016,
+    "releaseDate": "25.02.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 219990
+  },
+  {
+    "id": "e_rpg23",
+    "title": "Titan Quest Anniversary Edition",
+    "year": 2006,
+    "releaseDate": "26.06.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 475150
+  },
+  {
+    "id": "e_rpg24",
+    "title": "Sacred Gold",
+    "year": 2004,
+    "releaseDate": "19.03.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 12320
+  },
+  {
+    "id": "e_rpg25",
+    "title": "Fallout (1997)",
+    "year": 1997,
+    "releaseDate": "10.10.1997",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 38400
+  },
+  {
+    "id": "e_rpg26",
+    "title": "Fallout 2",
+    "year": 1998,
+    "releaseDate": "29.10.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 38410
+  },
+  {
+    "id": "e_rpg27",
+    "title": "Fallout 3",
+    "year": 2008,
+    "releaseDate": "28.10.2008",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 22370
+  },
+  {
+    "id": "e_rpg28",
+    "title": "Fallout 4",
+    "year": 2015,
+    "releaseDate": "10.11.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 377160
+  },
+  {
+    "id": "e_rpg29",
+    "title": "The Outer Worlds",
+    "year": 2019,
+    "releaseDate": "25.10.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 578650
+  },
+  {
+    "id": "e_rpg30",
+    "title": "Starfield",
+    "year": 2023,
+    "releaseDate": "06.09.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1716740
+  },
+  {
+    "id": "e_rpg31",
+    "title": "Risen 2: Dark Waters",
+    "year": 2012,
+    "releaseDate": "27.04.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 40390
+  },
+  {
+    "id": "e_rpg32",
+    "title": "Risen 3: Titan Lords",
+    "year": 2014,
+    "releaseDate": "14.08.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 249230
+  },
+  {
+    "id": "e_rpg33",
+    "title": "ELEX II",
+    "year": 2022,
+    "releaseDate": "01.03.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 900040
+  },
+  {
+    "id": "e_rpg34",
+    "title": "Drova: Forsaken Kin",
+    "year": 2024,
+    "releaseDate": "15.10.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1585180
+  },
+  {
+    "id": "e_rpg35",
+    "title": "Gothic 1 Remake",
+    "year": 2026,
+    "releaseDate": "05.06.2026",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1297900
+  },
+  {
+    "id": "e_rpg36",
+    "title": "NieR: Automata",
+    "year": 2017,
+    "releaseDate": "23.02.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 524220
+  },
+  {
+    "id": "e_rpg37",
+    "title": "Yakuza 0",
+    "year": 2015,
+    "releaseDate": "12.03.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 638970
+  },
+  {
+    "id": "e_rpg38",
+    "title": "Like a Dragon: Infinite Wealth",
+    "year": 2024,
+    "releaseDate": "26.01.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2072450
+  },
+  {
+    "id": "e_rpg39",
+    "title": "Persona 3 Reload",
+    "year": 2024,
+    "releaseDate": "02.02.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2161700
+  },
+  {
+    "id": "e_rpg40",
+    "title": "Persona 4 Golden",
+    "year": 2012,
+    "releaseDate": "14.06.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1113000
+  },
+  {
+    "id": "e_rpg41",
+    "title": "Dragon Quest XI S: Streiter des Schicksals",
+    "year": 2017,
+    "releaseDate": "29.07.2017",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1295510
+  },
+  {
+    "id": "e_rpg42",
+    "title": "Final Fantasy XVI",
+    "year": 2023,
+    "releaseDate": "22.06.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2515020
+  },
+  {
+    "id": "e_rpg43",
+    "title": "Final Fantasy XV",
+    "year": 2016,
+    "releaseDate": "29.11.2016",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 637650
+  },
+  {
+    "id": "e_rpg44",
+    "title": "Final Fantasy XII: The Zodiac Age",
+    "year": 2006,
+    "releaseDate": "16.03.2006",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 595520
+  },
+  {
+    "id": "e_rpg45",
+    "title": "Dark Souls: Remastered",
+    "year": 2011,
+    "releaseDate": "22.09.2011",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 570940
+  },
+  {
+    "id": "e_rpg46",
+    "title": "Dark Souls II: Scholar of the First Sin",
+    "year": 2014,
+    "releaseDate": "11.03.2014",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 335300
+  },
+  {
+    "id": "e_rpg47",
+    "title": "Lies of P",
+    "year": 2023,
+    "releaseDate": "19.09.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1627720
+  },
+  {
+    "id": "e_rpg48",
+    "title": "Lords of the Fallen (2023)",
+    "year": 2023,
+    "releaseDate": "13.10.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1501750
+  },
+  {
+    "id": "e_rpg49",
+    "title": "Nioh 2 – The Complete Edition",
+    "year": 2020,
+    "releaseDate": "12.03.2020",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1325200
+  },
+  {
+    "id": "e_rpg50",
+    "title": "Monster Hunter: World",
+    "year": 2018,
+    "releaseDate": "26.01.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 582010
+  },
+  {
+    "id": "e_rpg51",
+    "title": "Monster Hunter Rise",
+    "year": 2021,
+    "releaseDate": "26.03.2021",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1446780
+  },
+  {
+    "id": "e_rpg52",
+    "title": "Vampire: The Masquerade – Bloodlines",
+    "year": 2004,
+    "releaseDate": "16.11.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 2600
+  },
+  {
+    "id": "e_rpg53",
+    "title": "Mount & Blade II: Bannerlord",
+    "year": 2022,
+    "releaseDate": "25.10.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 261550
+  },
+  {
+    "id": "e_rpg54",
+    "title": "Mount & Blade: Warband",
+    "year": 2010,
+    "releaseDate": "30.03.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 48700
+  },
+  {
+    "id": "e_rpg55",
+    "title": "Kenshi",
+    "year": 2018,
+    "releaseDate": "06.12.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 233860
+  },
+  {
+    "id": "e_rpg56",
+    "title": "Wasteland 3",
+    "year": 2020,
+    "releaseDate": "28.08.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 719040
+  },
+  {
+    "id": "e_rpg57",
+    "title": "Fable Anniversary",
+    "year": 2004,
+    "releaseDate": "14.09.2004",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 288470
+  },
+  {
+    "id": "e_rpg58",
+    "title": "South Park: Der Stab der Wahrheit",
+    "year": 2014,
+    "releaseDate": "04.03.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 213670
+  },
+  {
+    "id": "e_str1",
+    "title": "Age of Empires: Definitive Edition",
+    "year": 1997,
+    "releaseDate": "15.10.1997",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1017900
+  },
+  {
+    "id": "e_str2",
+    "title": "Age of Empires III: Definitive Edition",
+    "year": 2005,
+    "releaseDate": "18.10.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 933110
+  },
+  {
+    "id": "e_str3",
+    "title": "Age of Empires IV",
+    "year": 2021,
+    "releaseDate": "28.10.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1466860
+  },
+  {
+    "id": "e_str4",
+    "title": "Age of Mythology: Retold",
+    "year": 2002,
+    "releaseDate": "30.10.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1934680
+  },
+  {
+    "id": "e_str5",
+    "title": "Rise of Nations: Extended Edition",
+    "year": 2003,
+    "releaseDate": "20.05.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 287450
+  },
+  {
+    "id": "e_str6",
+    "title": "Empire Earth",
+    "year": 2001,
+    "releaseDate": "12.11.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_str7",
+    "title": "Cossacks: European Wars",
+    "year": 2001,
+    "releaseDate": "30.03.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 4880
+  },
+  {
+    "id": "e_str8",
+    "title": "StarCraft II: Wings of Liberty",
+    "year": 2010,
+    "releaseDate": "27.07.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_str9",
+    "title": "Company of Heroes",
+    "year": 2006,
+    "releaseDate": "12.09.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 228200
+  },
+  {
+    "id": "e_str10",
+    "title": "Company of Heroes 2",
+    "year": 2013,
+    "releaseDate": "25.06.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 231430
+  },
+  {
+    "id": "e_str11",
+    "title": "Company of Heroes 3",
+    "year": 2023,
+    "releaseDate": "23.02.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1677280
+  },
+  {
+    "id": "e_str12",
+    "title": "Warhammer 40,000: Dawn of War",
+    "year": 2004,
+    "releaseDate": "20.09.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 4570
+  },
+  {
+    "id": "e_str13",
+    "title": "Warhammer 40,000: Dawn of War II",
+    "year": 2009,
+    "releaseDate": "19.02.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 15620
+  },
+  {
+    "id": "e_str14",
+    "title": "Supreme Commander: Forged Alliance",
+    "year": 2007,
+    "releaseDate": "06.11.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 9420
+  },
+  {
+    "id": "e_str15",
+    "title": "Homeworld Remastered Collection",
+    "year": 1999,
+    "releaseDate": "28.09.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 244160
+  },
+  {
+    "id": "e_str16",
+    "title": "Frostpunk",
+    "year": 2018,
+    "releaseDate": "24.04.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 323190
+  },
+  {
+    "id": "e_str17",
+    "title": "Frostpunk 2",
+    "year": 2024,
+    "releaseDate": "20.09.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1601580
+  },
+  {
+    "id": "e_str18",
+    "title": "Against the Storm",
+    "year": 2023,
+    "releaseDate": "08.12.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1336490
+  },
+  {
+    "id": "e_str19",
+    "title": "They Are Billions",
+    "year": 2019,
+    "releaseDate": "18.06.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 644930
+  },
+  {
+    "id": "e_str20",
+    "title": "Banished",
+    "year": 2014,
+    "releaseDate": "18.02.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 242920
+  },
+  {
+    "id": "e_str21",
+    "title": "Workers & Resources: Soviet Republic",
+    "year": 2024,
+    "releaseDate": "20.06.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 784150
+  },
+  {
+    "id": "e_str22",
+    "title": "Satisfactory",
+    "year": 2024,
+    "releaseDate": "10.09.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 526870
+  },
+  {
+    "id": "e_str23",
+    "title": "Dyson Sphere Program",
+    "year": 2021,
+    "releaseDate": "21.01.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1366540
+  },
+  {
+    "id": "e_str24",
+    "title": "Tropico 4",
+    "year": 2011,
+    "releaseDate": "26.08.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 57690
+  },
+  {
+    "id": "e_str25",
+    "title": "Tropico 6",
+    "year": 2019,
+    "releaseDate": "29.03.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 492720
+  },
+  {
+    "id": "e_str26",
+    "title": "Patrizier II: Gold",
+    "year": 2000,
+    "releaseDate": "27.10.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 33570
+  },
+  {
+    "id": "e_str27",
+    "title": "Port Royale 2",
+    "year": 2004,
+    "releaseDate": "30.04.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 12470
+  },
+  {
+    "id": "e_str28",
+    "title": "Die Gilde (Europa 1400: The Guild)",
+    "year": 2002,
+    "releaseDate": "01.03.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 39520
+  },
+  {
+    "id": "e_str29",
+    "title": "RollerCoaster Tycoon Deluxe",
+    "year": 1999,
+    "releaseDate": "31.03.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 285310
+  },
+  {
+    "id": "e_str30",
+    "title": "RollerCoaster Tycoon 2",
+    "year": 2002,
+    "releaseDate": "15.10.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 285330
+  },
+  {
+    "id": "e_str31",
+    "title": "Planet Coaster",
+    "year": 2016,
+    "releaseDate": "17.11.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 493340
+  },
+  {
+    "id": "e_str32",
+    "title": "Planet Zoo",
+    "year": 2019,
+    "releaseDate": "05.11.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 703080
+  },
+  {
+    "id": "e_str33",
+    "title": "Transport Fever 2",
+    "year": 2019,
+    "releaseDate": "11.12.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1066780
+  },
+  {
+    "id": "e_str34",
+    "title": "Stronghold HD",
+    "year": 2001,
+    "releaseDate": "19.10.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 40950
+  },
+  {
+    "id": "e_str35",
+    "title": "Total War: Shogun 2",
+    "year": 2011,
+    "releaseDate": "15.03.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 201270
+  },
+  {
+    "id": "e_str36",
+    "title": "Total War: Warhammer III",
+    "year": 2022,
+    "releaseDate": "17.02.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1142710
+  },
+  {
+    "id": "e_str37",
+    "title": "Total War: Warhammer II",
+    "year": 2017,
+    "releaseDate": "28.09.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 594570
+  },
+  {
+    "id": "e_str38",
+    "title": "Total War: Three Kingdoms",
+    "year": 2019,
+    "releaseDate": "23.05.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 779340
+  },
+  {
+    "id": "e_str39",
+    "title": "Empire: Total War",
+    "year": 2009,
+    "releaseDate": "03.03.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 10500
+  },
+  {
+    "id": "e_str40",
+    "title": "Crusader Kings II",
+    "year": 2012,
+    "releaseDate": "14.02.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 203770
+  },
+  {
+    "id": "e_str41",
+    "title": "Victoria II",
+    "year": 2010,
+    "releaseDate": "13.08.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 42960
+  },
+  {
+    "id": "e_str42",
+    "title": "Imperator: Rome",
+    "year": 2019,
+    "releaseDate": "25.04.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 859580
+  },
+  {
+    "id": "e_str43",
+    "title": "Sid Meier's Civilization V",
+    "year": 2010,
+    "releaseDate": "21.09.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 8930
+  },
+  {
+    "id": "e_str44",
+    "title": "Sid Meier's Civilization VII",
+    "year": 2025,
+    "releaseDate": "11.02.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1295660
+  },
+  {
+    "id": "e_str45",
+    "title": "Age of Wonders 4",
+    "year": 2023,
+    "releaseDate": "02.05.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1669000
+  },
+  {
+    "id": "e_str46",
+    "title": "Heroes of Might and Magic III",
+    "year": 1999,
+    "releaseDate": "28.02.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 297000
+  },
+  {
+    "id": "e_str47",
+    "title": "Heroes of Might and Magic V",
+    "year": 2006,
+    "releaseDate": "16.05.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 15170
+  },
+  {
+    "id": "e_str48",
+    "title": "Jagged Alliance 2",
+    "year": 1999,
+    "releaseDate": "23.07.1999",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1620
+  },
+  {
+    "id": "e_str49",
+    "title": "Jagged Alliance 3",
+    "year": 2023,
+    "releaseDate": "14.07.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1084160
+  },
+  {
+    "id": "e_str50",
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "year": 2016,
+    "releaseDate": "06.12.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 418240
+  },
+  {
+    "id": "e_str51",
+    "title": "Desperados III",
+    "year": 2020,
+    "releaseDate": "16.06.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 610370
+  },
+  {
+    "id": "e_str52",
+    "title": "XCOM: Enemy Unknown",
+    "year": 2012,
+    "releaseDate": "09.10.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 200510
+  },
+  {
+    "id": "e_str53",
+    "title": "Into the Breach",
+    "year": 2018,
+    "releaseDate": "27.02.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": 590380
+  },
+  {
+    "id": "e_str54",
+    "title": "FTL: Faster Than Light",
+    "year": 2012,
+    "releaseDate": "14.09.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 212680
+  },
+  {
+    "id": "e_str55",
+    "title": "Darkest Dungeon",
+    "year": 2016,
+    "releaseDate": "19.01.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 262060
+  },
+  {
+    "id": "e_act1",
+    "title": "Grand Theft Auto IV",
+    "year": 2008,
+    "releaseDate": "29.04.2008",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 12210
+  },
+  {
+    "id": "e_act2",
+    "title": "L.A. Noire",
+    "year": 2011,
+    "releaseDate": "17.05.2011",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 110800
+  },
+  {
+    "id": "e_act3",
+    "title": "Bully: Die Ehrenrunde (Canis Canem Edit)",
+    "year": 2006,
+    "releaseDate": "17.10.2006",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 12200
+  },
+  {
+    "id": "e_act4",
+    "title": "Max Payne 2: The Fall of Max Payne",
+    "year": 2003,
+    "releaseDate": "14.10.2003",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 12150
+  },
+  {
+    "id": "e_act5",
+    "title": "Max Payne 3",
+    "year": 2012,
+    "releaseDate": "15.05.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 204100
+  },
+  {
+    "id": "e_act6",
+    "title": "Mafia II",
+    "year": 2010,
+    "releaseDate": "24.08.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 50130
+  },
+  {
+    "id": "e_act7",
+    "title": "Mafia: Definitive Edition",
+    "year": 2020,
+    "releaseDate": "25.09.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 1030840
+  },
+  {
+    "id": "e_act8",
+    "title": "Sleeping Dogs: Definitive Edition",
+    "year": 2012,
+    "releaseDate": "14.08.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 307690
+  },
+  {
+    "id": "e_act9",
+    "title": "Days Gone",
+    "year": 2019,
+    "releaseDate": "26.04.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1259420
+  },
+  {
+    "id": "e_act10",
+    "title": "Dying Light",
+    "year": 2015,
+    "releaseDate": "27.01.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 239140
+  },
+  {
+    "id": "e_act11",
+    "title": "Dying Light 2 Stay Human",
+    "year": 2022,
+    "releaseDate": "04.02.2022",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 534380
+  },
+  {
+    "id": "e_act12",
+    "title": "Far Cry 3",
+    "year": 2012,
+    "releaseDate": "29.11.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 220240
+  },
+  {
+    "id": "e_act13",
+    "title": "Far Cry 4",
+    "year": 2014,
+    "releaseDate": "18.11.2014",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 298110
+  },
+  {
+    "id": "e_act14",
+    "title": "Far Cry 5",
+    "year": 2018,
+    "releaseDate": "27.03.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 552520
+  },
+  {
+    "id": "e_act15",
+    "title": "Assassin's Creed II",
+    "year": 2009,
+    "releaseDate": "17.11.2009",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 33230
+  },
+  {
+    "id": "e_act16",
+    "title": "Assassin's Creed: Brotherhood",
+    "year": 2010,
+    "releaseDate": "16.11.2010",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 48190
+  },
+  {
+    "id": "e_act17",
+    "title": "Assassin's Creed IV: Black Flag",
+    "year": 2013,
+    "releaseDate": "29.10.2013",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 242050
+  },
+  {
+    "id": "e_act18",
+    "title": "Assassin's Creed Origins",
+    "year": 2017,
+    "releaseDate": "27.10.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 582160
+  },
+  {
+    "id": "e_act19",
+    "title": "Assassin's Creed Odyssey",
+    "year": 2018,
+    "releaseDate": "05.10.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 812140
+  },
+  {
+    "id": "e_act20",
+    "title": "Assassin's Creed Valhalla",
+    "year": 2020,
+    "releaseDate": "10.11.2020",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2208920
+  },
+  {
+    "id": "e_act21",
+    "title": "Assassin's Creed Shadows",
+    "year": 2025,
+    "releaseDate": "20.03.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 3159330
+  },
+  {
+    "id": "e_act22",
+    "title": "Batman: Arkham Asylum",
+    "year": 2009,
+    "releaseDate": "25.08.2009",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 35140
+  },
+  {
+    "id": "e_act23",
+    "title": "Batman: Arkham Knight",
+    "year": 2015,
+    "releaseDate": "23.06.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 208650
+  },
+  {
+    "id": "e_act24",
+    "title": "Mittelerde: Mordors Schatten",
+    "year": 2014,
+    "releaseDate": "30.09.2014",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 241930
+  },
+  {
+    "id": "e_act25",
+    "title": "Mittelerde: Schatten des Krieges",
+    "year": 2017,
+    "releaseDate": "10.10.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 356190
+  },
+  {
+    "id": "e_act26",
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "year": 2020,
+    "releaseDate": "12.11.2020",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 1817190
+  },
+  {
+    "id": "e_act27",
+    "title": "Marvel's Guardians of the Galaxy",
+    "year": 2021,
+    "releaseDate": "26.10.2021",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1088850
+  },
+  {
+    "id": "e_act28",
+    "title": "Tomb Raider (1996)",
+    "year": 1996,
+    "releaseDate": "25.10.1996",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "PS5",
+      "Nintendo"
+    ],
+    "steamId": 2478970
+  },
+  {
+    "id": "e_act29",
+    "title": "Tomb Raider (2013)",
+    "year": 2013,
+    "releaseDate": "05.03.2013",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 203160
+  },
+  {
+    "id": "e_act30",
+    "title": "Rise of the Tomb Raider",
+    "year": 2015,
+    "releaseDate": "10.11.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 391220
+  },
+  {
+    "id": "e_act31",
+    "title": "Uncharted 3: Drake's Deception",
+    "year": 2011,
+    "releaseDate": "01.11.2011",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_act32",
+    "title": "Prince of Persia: The Sands of Time",
+    "year": 2003,
+    "releaseDate": "06.11.2003",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 13600
+  },
+  {
+    "id": "e_act33",
+    "title": "Prince of Persia: The Lost Crown",
+    "year": 2024,
+    "releaseDate": "18.01.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2751000
+  },
+  {
+    "id": "e_act34",
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "year": 2015,
+    "releaseDate": "01.09.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 287700
+  },
+  {
+    "id": "e_act35",
+    "title": "Hitman: World of Assassination (Hitman 3)",
+    "year": 2021,
+    "releaseDate": "20.01.2021",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1659040
+  },
+  {
+    "id": "e_act36",
+    "title": "Hitman: Blood Money",
+    "year": 2006,
+    "releaseDate": "26.05.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 6860
+  },
+  {
+    "id": "e_act37",
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "year": 2005,
+    "releaseDate": "28.03.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 13570
+  },
+  {
+    "id": "e_act38",
+    "title": "Dishonored: Die Maske des Zorns",
+    "year": 2012,
+    "releaseDate": "09.10.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 205100
+  },
+  {
+    "id": "e_act39",
+    "title": "Dishonored 2: Das Vermächtnis der Maske",
+    "year": 2016,
+    "releaseDate": "11.11.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 403640
+  },
+  {
+    "id": "e_act40",
+    "title": "Prey (2017)",
+    "year": 2017,
+    "releaseDate": "05.05.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 480490
+  },
+  {
+    "id": "e_act41",
+    "title": "Deus Ex: Human Revolution",
+    "year": 2011,
+    "releaseDate": "23.08.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 238010
+  },
+  {
+    "id": "e_act42",
+    "title": "Deus Ex: Mankind Divided",
+    "year": 2016,
+    "releaseDate": "23.08.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 337000
+  },
+  {
+    "id": "e_act43",
+    "title": "Control: Ultimate Edition",
+    "year": 2019,
+    "releaseDate": "27.08.2019",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 870780
+  },
+  {
+    "id": "e_act44",
+    "title": "Devil May Cry 5",
+    "year": 2019,
+    "releaseDate": "08.03.2019",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 601150
+  },
+  {
+    "id": "e_act45",
+    "title": "Stellar Blade",
+    "year": 2024,
+    "releaseDate": "26.04.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 3489700
+  },
+  {
+    "id": "e_act46",
+    "title": "Rise of the Ronin",
+    "year": 2024,
+    "releaseDate": "22.03.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 1340990
+  },
+  {
+    "id": "e_act47",
+    "title": "No Man's Sky",
+    "year": 2016,
+    "releaseDate": "09.08.2016",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 275850
+  },
+  {
+    "id": "e_act48",
+    "title": "Terraria",
+    "year": 2011,
+    "releaseDate": "16.05.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 105600
+  },
+  {
+    "id": "e_act49",
+    "title": "Minecraft",
+    "year": 2011,
+    "releaseDate": "18.11.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_act50",
+    "title": "V Rising",
+    "year": 2024,
+    "releaseDate": "08.05.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "steamId": 1604030
+  },
+  {
+    "id": "e_act51",
+    "title": "Palworld",
+    "year": 2024,
+    "releaseDate": "19.01.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1623730
+  },
+  {
+    "id": "e_act52",
+    "title": "Grounded",
+    "year": 2022,
+    "releaseDate": "27.09.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 962130
+  },
+  {
+    "id": "e_fps1",
+    "title": "DOOM (1993)",
+    "year": 1993,
+    "releaseDate": "10.12.1993",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS1",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2280
+  },
+  {
+    "id": "e_fps2",
+    "title": "DOOM (2016)",
+    "year": 2016,
+    "releaseDate": "13.05.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 379720
+  },
+  {
+    "id": "e_fps3",
+    "title": "DOOM Eternal",
+    "year": 2020,
+    "releaseDate": "20.03.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 782330
+  },
+  {
+    "id": "e_fps4",
+    "title": "DOOM 3",
+    "year": 2004,
+    "releaseDate": "03.08.2004",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS4",
+      "Nintendo"
+    ],
+    "steamId": 208200
+  },
+  {
+    "id": "e_fps5",
+    "title": "Wolfenstein: The New Order",
+    "year": 2014,
+    "releaseDate": "20.05.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 201810
+  },
+  {
+    "id": "e_fps6",
+    "title": "Wolfenstein II: The New Colossus",
+    "year": 2017,
+    "releaseDate": "27.10.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 612880
+  },
+  {
+    "id": "e_fps7",
+    "title": "Return to Castle Wolfenstein",
+    "year": 2001,
+    "releaseDate": "19.11.2001",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 9010
+  },
+  {
+    "id": "e_fps8",
+    "title": "Quake",
+    "year": 1996,
+    "releaseDate": "22.06.1996",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2310
+  },
+  {
+    "id": "e_fps9",
+    "title": "Quake II",
+    "year": 1997,
+    "releaseDate": "09.12.1997",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS1",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2320
+  },
+  {
+    "id": "e_fps10",
+    "title": "BioShock Infinite",
+    "year": 2013,
+    "releaseDate": "26.03.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 8870
+  },
+  {
+    "id": "e_fps11",
+    "title": "BioShock 2",
+    "year": 2010,
+    "releaseDate": "09.02.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 8850
+  },
+  {
+    "id": "e_fps12",
+    "title": "Metro Exodus",
+    "year": 2019,
+    "releaseDate": "15.02.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 412020
+  },
+  {
+    "id": "e_fps13",
+    "title": "Metro 2033 Redux",
+    "year": 2010,
+    "releaseDate": "16.03.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 286690
+  },
+  {
+    "id": "e_fps14",
+    "title": "Metro: Last Light Redux",
+    "year": 2013,
+    "releaseDate": "14.05.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 287390
+  },
+  {
+    "id": "e_fps15",
+    "title": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "year": 2009,
+    "releaseDate": "02.10.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 41700
+  },
+  {
+    "id": "e_fps16",
+    "title": "F.E.A.R.",
+    "year": 2005,
+    "releaseDate": "18.10.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 21090
+  },
+  {
+    "id": "e_fps17",
+    "title": "Left 4 Dead 2",
+    "year": 2009,
+    "releaseDate": "17.11.2009",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 550
+  },
+  {
+    "id": "e_fps18",
+    "title": "Counter-Strike 1.6",
+    "year": 2000,
+    "releaseDate": "09.11.2000",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 10
+  },
+  {
+    "id": "e_fps19",
+    "title": "Counter-Strike 2 (CS:GO)",
+    "year": 2012,
+    "releaseDate": "21.08.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 730
+  },
+  {
+    "id": "e_fps20",
+    "title": "Team Fortress 2",
+    "year": 2007,
+    "releaseDate": "10.10.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 440
+  },
+  {
+    "id": "e_fps21",
+    "title": "Half-Life: Alyx",
+    "year": 2020,
+    "releaseDate": "23.03.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 546560
+  },
+  {
+    "id": "e_fps22",
+    "title": "Black Mesa",
+    "year": 2020,
+    "releaseDate": "06.03.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 362890
+  },
+  {
+    "id": "e_fps23",
+    "title": "Titanfall 2",
+    "year": 2016,
+    "releaseDate": "28.10.2016",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1237970
+  },
+  {
+    "id": "e_fps24",
+    "title": "Halo: Reach",
+    "year": 2010,
+    "releaseDate": "14.09.2010",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 1064220
+  },
+  {
+    "id": "e_fps25",
+    "title": "Halo 2",
+    "year": 2004,
+    "releaseDate": "09.11.2004",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 1064270
+  },
+  {
+    "id": "e_fps26",
+    "title": "Gears of War",
+    "year": 2006,
+    "releaseDate": "07.11.2006",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_fps27",
+    "title": "Battlefield 1942",
+    "year": 2002,
+    "releaseDate": "10.09.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_fps28",
+    "title": "Battlefield 2",
+    "year": 2005,
+    "releaseDate": "21.06.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 24860
+  },
+  {
+    "id": "e_fps29",
+    "title": "Battlefield: Bad Company 2",
+    "year": 2010,
+    "releaseDate": "02.03.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 24960
+  },
+  {
+    "id": "e_fps30",
+    "title": "Battlefield 3",
+    "year": 2011,
+    "releaseDate": "25.10.2011",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox"
+    ],
+    "steamId": 1238820
+  },
+  {
+    "id": "e_fps31",
+    "title": "Battlefield 1",
+    "year": 2016,
+    "releaseDate": "21.10.2016",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1238840
+  },
+  {
+    "id": "e_fps32",
+    "title": "Call of Duty 4: Modern Warfare (2007)",
+    "year": 2007,
+    "releaseDate": "05.11.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 7940
+  },
+  {
+    "id": "e_fps33",
+    "title": "Call of Duty: Modern Warfare 2 (2009)",
+    "year": 2009,
+    "releaseDate": "10.11.2009",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 10180
+  },
+  {
+    "id": "e_fps34",
+    "title": "Call of Duty: Black Ops",
+    "year": 2010,
+    "releaseDate": "09.11.2010",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 42700
+  },
+  {
+    "id": "e_fps35",
+    "title": "Call of Duty 2",
+    "year": 2005,
+    "releaseDate": "25.10.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2630
+  },
+  {
+    "id": "e_fps36",
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "year": 2015,
+    "releaseDate": "01.12.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 359550
+  },
+  {
+    "id": "e_fps37",
+    "title": "Hunt: Showdown 1896",
+    "year": 2019,
+    "releaseDate": "27.08.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 594650
+  },
+  {
+    "id": "e_fps38",
+    "title": "Hell Let Loose",
+    "year": 2021,
+    "releaseDate": "27.07.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 686810
+  },
+  {
+    "id": "e_fps39",
+    "title": "Star Wars: Battlefront II (2005)",
+    "year": 2005,
+    "releaseDate": "31.10.2005",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "PS4",
+      "PS5",
+      "Nintendo"
+    ],
+    "steamId": 6060
+  },
+  {
+    "id": "e_fps40",
+    "title": "Star Wars: Republic Commando",
+    "year": 2005,
+    "releaseDate": "28.02.2005",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS4",
+      "Nintendo"
+    ],
+    "steamId": 6000
+  },
+  {
+    "id": "e_fps41",
+    "title": "ULTRAKILL",
+    "year": 2020,
+    "releaseDate": "03.09.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 1229490
+  },
+  {
+    "id": "e_fps42",
+    "title": "System Shock (Remake)",
+    "year": 2023,
+    "releaseDate": "30.05.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 482400
+  },
+  {
+    "id": "e_fps43",
+    "title": "GoldenEye 007",
+    "year": 1997,
+    "releaseDate": "25.08.1997",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_hor1",
+    "title": "Resident Evil 7: Biohazard",
+    "year": 2017,
+    "releaseDate": "24.01.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 418370
+  },
+  {
+    "id": "e_hor2",
+    "title": "Resident Evil 0",
+    "year": 2002,
+    "releaseDate": "12.11.2002",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 339340
+  },
+  {
+    "id": "e_hor3",
+    "title": "Silent Hill 3",
+    "year": 2003,
+    "releaseDate": "23.05.2003",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_hor4",
+    "title": "Silent Hill 4: The Room",
+    "year": 2004,
+    "releaseDate": "17.06.2004",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_hor5",
+    "title": "Dead Space (Remake)",
+    "year": 2023,
+    "releaseDate": "27.01.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1693980
+  },
+  {
+    "id": "e_hor6",
+    "title": "Dead Space 2",
+    "year": 2011,
+    "releaseDate": "25.01.2011",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 47780
+  },
+  {
+    "id": "e_hor7",
+    "title": "Alien: Isolation",
+    "year": 2014,
+    "releaseDate": "07.10.2014",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 214490
+  },
+  {
+    "id": "e_hor8",
+    "title": "Outlast",
+    "year": 2013,
+    "releaseDate": "04.09.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 238320
+  },
+  {
+    "id": "e_hor9",
+    "title": "Amnesia: The Dark Descent",
+    "year": 2010,
+    "releaseDate": "08.09.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 57300
+  },
+  {
+    "id": "e_hor10",
+    "title": "SOMA",
+    "year": 2015,
+    "releaseDate": "22.09.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 282140
+  },
+  {
+    "id": "e_hor11",
+    "title": "The Evil Within",
+    "year": 2014,
+    "releaseDate": "14.10.2014",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 268050
+  },
+  {
+    "id": "e_hor12",
+    "title": "The Evil Within 2",
+    "year": 2017,
+    "releaseDate": "13.10.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 601430
+  },
+  {
+    "id": "e_hor13",
+    "title": "Until Dawn",
+    "year": 2015,
+    "releaseDate": "25.08.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2172010
+  },
+  {
+    "id": "e_hor14",
+    "title": "SIGNALIS",
+    "year": 2022,
+    "releaseDate": "27.10.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1262350
+  },
+  {
+    "id": "e_hor15",
+    "title": "Phasmophobia",
+    "year": 2020,
+    "releaseDate": "18.09.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 739630
+  },
+  {
+    "id": "e_hor16",
+    "title": "Little Nightmares II",
+    "year": 2021,
+    "releaseDate": "11.02.2021",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 860510
+  },
+  {
+    "id": "e_adv1",
+    "title": "Grim Fandango Remastered",
+    "year": 1998,
+    "releaseDate": "30.10.1998",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 316790
+  },
+  {
+    "id": "e_adv2",
+    "title": "Full Throttle Remastered (Vollgas)",
+    "year": 1995,
+    "releaseDate": "30.04.1995",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 228360
+  },
+  {
+    "id": "e_adv3",
+    "title": "Sam & Max Hit the Road",
+    "year": 1993,
+    "releaseDate": "01.11.1993",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 355170
+  },
+  {
+    "id": "e_adv4",
+    "title": "Baphomets Fluch (Broken Sword: Shadow of the Templars)",
+    "year": 1996,
+    "releaseDate": "30.09.1996",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS1",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 57640
+  },
+  {
+    "id": "e_adv5",
+    "title": "Deponia",
+    "year": 2012,
+    "releaseDate": "27.01.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 214340
+  },
+  {
+    "id": "e_adv6",
+    "title": "Edna Bricht Aus",
+    "year": 2008,
+    "releaseDate": "06.06.2008",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 959000
+  },
+  {
+    "id": "e_adv7",
+    "title": "Syberia",
+    "year": 2002,
+    "releaseDate": "09.01.2002",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "PS3",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 46500
+  },
+  {
+    "id": "e_adv8",
+    "title": "Return of the Obra Dinn",
+    "year": 2018,
+    "releaseDate": "18.10.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 653530
+  },
+  {
+    "id": "e_adv9",
+    "title": "Firewatch",
+    "year": 2016,
+    "releaseDate": "09.02.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 383870
+  },
+  {
+    "id": "e_adv10",
+    "title": "What Remains of Edith Finch",
+    "year": 2017,
+    "releaseDate": "25.04.2017",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 501300
+  },
+  {
+    "id": "e_adv11",
+    "title": "Life is Strange",
+    "year": 2015,
+    "releaseDate": "30.01.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 319630
+  },
+  {
+    "id": "e_adv12",
+    "title": "The Walking Dead: Season One (Telltale)",
+    "year": 2012,
+    "releaseDate": "24.04.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 207610
+  },
+  {
+    "id": "e_adv13",
+    "title": "The Wolf Among Us",
+    "year": 2013,
+    "releaseDate": "11.10.2013",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 250320
+  },
+  {
+    "id": "e_adv14",
+    "title": "Heavy Rain",
+    "year": 2010,
+    "releaseDate": "23.02.2010",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC"
+    ],
+    "steamId": 960910
+  },
+  {
+    "id": "e_adv15",
+    "title": "Pentiment",
+    "year": 2022,
+    "releaseDate": "15.11.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1205520
+  },
+  {
+    "id": "e_adv16",
+    "title": "Portal",
+    "year": 2007,
+    "releaseDate": "10.10.2007",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 400
+  },
+  {
+    "id": "e_adv17",
+    "title": "The Talos Principle 2",
+    "year": 2023,
+    "releaseDate": "02.11.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 835960
+  },
+  {
+    "id": "e_adv18",
+    "title": "It Takes Two",
+    "year": 2021,
+    "releaseDate": "26.03.2021",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1426210
+  },
+  {
+    "id": "e_adv19",
+    "title": "Split Fiction",
+    "year": 2025,
+    "releaseDate": "06.03.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2001120
+  },
+  {
+    "id": "e_adv20",
+    "title": "A Way Out",
+    "year": 2018,
+    "releaseDate": "23.03.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1222700
+  },
+  {
+    "id": "e_plt1",
+    "title": "Cuphead",
+    "year": 2017,
+    "releaseDate": "29.09.2017",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 268910
+  },
+  {
+    "id": "e_plt2",
+    "title": "Celeste",
+    "year": 2018,
+    "releaseDate": "25.01.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 504230
+  },
+  {
+    "id": "e_plt3",
+    "title": "Rayman Legends",
+    "year": 2013,
+    "releaseDate": "29.08.2013",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS3",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 242550
+  },
+  {
+    "id": "e_plt4",
+    "title": "Ori and the Blind Forest",
+    "year": 2015,
+    "releaseDate": "11.03.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 387290
+  },
+  {
+    "id": "e_plt5",
+    "title": "Blasphemous",
+    "year": 2019,
+    "releaseDate": "10.09.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 774361
+  },
+  {
+    "id": "e_plt6",
+    "title": "Blasphemous 2",
+    "year": 2023,
+    "releaseDate": "24.08.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2114740
+  },
+  {
+    "id": "e_plt7",
+    "title": "Nine Sols",
+    "year": 2024,
+    "releaseDate": "29.05.2024",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1809540
+  },
+  {
+    "id": "e_plt8",
+    "title": "Shovel Knight: Treasure Trove",
+    "year": 2014,
+    "releaseDate": "26.06.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 250760
+  },
+  {
+    "id": "e_plt9",
+    "title": "LIMBO",
+    "year": 2010,
+    "releaseDate": "21.07.2010",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 48000
+  },
+  {
+    "id": "e_plt10",
+    "title": "INSIDE",
+    "year": 2016,
+    "releaseDate": "29.06.2016",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 304430
+  },
+  {
+    "id": "e_plt11",
+    "title": "Dave the Diver",
+    "year": 2023,
+    "releaseDate": "28.06.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Nintendo"
+    ],
+    "steamId": 1868140
+  },
+  {
+    "id": "e_plt12",
+    "title": "DREDGE",
+    "year": 2023,
+    "releaseDate": "30.03.2023",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1562430
+  },
+  {
+    "id": "e_plt13",
+    "title": "Vampire Survivors",
+    "year": 2022,
+    "releaseDate": "20.10.2022",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1794680
+  },
+  {
+    "id": "e_plt14",
+    "title": "Inscryption",
+    "year": 2021,
+    "releaseDate": "19.10.2021",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1092790
+  },
+  {
+    "id": "e_plt15",
+    "title": "Undertale",
+    "year": 2015,
+    "releaseDate": "15.09.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 391540
+  },
+  {
+    "id": "e_plt16",
+    "title": "Hotline Miami",
+    "year": 2012,
+    "releaseDate": "23.10.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS3",
+      "PS4",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 219150
+  },
+  {
+    "id": "e_plt17",
+    "title": "Katana ZERO",
+    "year": 2019,
+    "releaseDate": "18.04.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 460950
+  },
+  {
+    "id": "e_plt18",
+    "title": "The Binding of Isaac: Rebirth",
+    "year": 2014,
+    "releaseDate": "04.11.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 250900
+  },
+  {
+    "id": "e_plt19",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "year": 2023,
+    "releaseDate": "12.05.2023",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt20",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "year": 2000,
+    "releaseDate": "27.04.2000",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt21",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "year": 2002,
+    "releaseDate": "13.12.2002",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt22",
+    "title": "Super Mario Galaxy",
+    "year": 2007,
+    "releaseDate": "01.11.2007",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt23",
+    "title": "Metroid Prime Remastered",
+    "year": 2002,
+    "releaseDate": "17.11.2002",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt24",
+    "title": "Metroid Dread",
+    "year": 2021,
+    "releaseDate": "08.10.2021",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_plt25",
+    "title": "Donkey Kong Country",
+    "year": 1994,
+    "releaseDate": "21.11.1994",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac1",
+    "title": "Gran Turismo (1997)",
+    "year": 1997,
+    "releaseDate": "23.12.1997",
+    "platform": "PS1",
+    "platforms": [
+      "PS1"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac2",
+    "title": "Gran Turismo 3: A-Spec",
+    "year": 2001,
+    "releaseDate": "28.04.2001",
+    "platform": "PS2",
+    "platforms": [
+      "PS2"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac3",
+    "title": "Forza Horizon 4",
+    "year": 2018,
+    "releaseDate": "02.10.2018",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 1293830
+  },
+  {
+    "id": "e_rac4",
+    "title": "Assetto Corsa",
+    "year": 2014,
+    "releaseDate": "19.12.2014",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 244210
+  },
+  {
+    "id": "e_rac5",
+    "title": "Assetto Corsa Competizione",
+    "year": 2019,
+    "releaseDate": "29.05.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 805550
+  },
+  {
+    "id": "e_rac6",
+    "title": "DiRT Rally 2.0",
+    "year": 2019,
+    "releaseDate": "26.02.2019",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 690790
+  },
+  {
+    "id": "e_rac7",
+    "title": "F1 2020",
+    "year": 2020,
+    "releaseDate": "10.07.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": 1080110
+  },
+  {
+    "id": "e_rac8",
+    "title": "Need for Speed: Underground",
+    "year": 2003,
+    "releaseDate": "17.11.2003",
+    "platform": "PS2",
+    "platforms": [
+      "PS2",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac9",
+    "title": "Need for Speed: Hot Pursuit Remastered",
+    "year": 2010,
+    "releaseDate": "16.11.2010",
+    "platform": "PS3",
+    "platforms": [
+      "PS3",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1328660
+  },
+  {
+    "id": "e_rac10",
+    "title": "FlatOut 2",
+    "year": 2006,
+    "releaseDate": "30.06.2006",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS2",
+      "Xbox"
+    ],
+    "steamId": 2990
+  },
+  {
+    "id": "e_rac11",
+    "title": "Wreckfest",
+    "year": 2018,
+    "releaseDate": "14.06.2018",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 228380
+  },
+  {
+    "id": "e_rac12",
+    "title": "TrackMania Nations Forever",
+    "year": 2008,
+    "releaseDate": "16.04.2008",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 11020
+  },
+  {
+    "id": "e_rac13",
+    "title": "Euro Truck Simulator 2",
+    "year": 2012,
+    "releaseDate": "19.10.2012",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 227300
+  },
+  {
+    "id": "e_rac14",
+    "title": "SnowRunner",
+    "year": 2020,
+    "releaseDate": "28.04.2020",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1465360
+  },
+  {
+    "id": "e_rac15",
+    "title": "Rocket League",
+    "year": 2015,
+    "releaseDate": "07.07.2015",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 252950
+  },
+  {
+    "id": "e_rac16",
+    "title": "FIFA 98: Road to World Cup",
+    "year": 1997,
+    "releaseDate": "17.06.1997",
+    "platform": "PS1",
+    "platforms": [
+      "PS1",
+      "PC",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac17",
+    "title": "EA Sports FC 25",
+    "year": 2024,
+    "releaseDate": "27.09.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2669320
+  },
+  {
+    "id": "e_rac18",
+    "title": "Anstoss 2 Gold",
+    "year": 1997,
+    "releaseDate": "15.10.1997",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_rac19",
+    "title": "Bundesliga Manager Professional",
+    "year": 1991,
+    "releaseDate": "10.10.1991",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_fig1",
+    "title": "Street Fighter II Turbo",
+    "year": 1992,
+    "releaseDate": "11.07.1992",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo",
+      "PC",
+      "PS4",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_fig2",
+    "title": "Street Fighter 6",
+    "year": 2023,
+    "releaseDate": "02.06.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1364780
+  },
+  {
+    "id": "e_fig3",
+    "title": "Tekken 8",
+    "year": 2024,
+    "releaseDate": "26.01.2024",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 1778820
+  },
+  {
+    "id": "e_fig4",
+    "title": "Tekken 7",
+    "year": 2015,
+    "releaseDate": "18.03.2015",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 389730
+  },
+  {
+    "id": "e_fig5",
+    "title": "Mortal Kombat 11",
+    "year": 2019,
+    "releaseDate": "23.04.2019",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 976310
+  },
+  {
+    "id": "e_fig6",
+    "title": "Mortal Kombat 1 (2023)",
+    "year": 2023,
+    "releaseDate": "19.09.2023",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 1971870
+  },
+  {
+    "id": "e_fig7",
+    "title": "Super Smash Bros. Ultimate",
+    "year": 2018,
+    "releaseDate": "07.12.2018",
+    "platform": "Nintendo",
+    "platforms": [
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "e_fig8",
+    "title": "Dragon Ball FighterZ",
+    "year": 2018,
+    "releaseDate": "26.01.2018",
+    "platform": "PS4",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 678950
+  },
+  {
+    "id": "u_1",
+    "title": "The Witcher 4 (Project Polaris)",
+    "year": 2027,
+    "releaseDate": "18.11.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_2",
+    "title": "The Blood of Dawnwalker",
+    "year": 2027,
+    "releaseDate": "14.05.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_3",
+    "title": "Europa Universalis V (Project Caesar)",
+    "year": 2025,
+    "releaseDate": "04.11.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_4",
+    "title": "Heroes of Might and Magic: Olden Era",
+    "year": 2026,
+    "releaseDate": "10.12.2026",
+    "platform": "PC",
+    "platforms": [
+      "PC"
+    ],
+    "steamId": 3105440
+  },
+  {
+    "id": "u_5",
+    "title": "Titan Quest II",
+    "year": 2025,
+    "releaseDate": "01.08.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1154030
+  },
+  {
+    "id": "u_6",
+    "title": "Subnautica 2",
+    "year": 2027,
+    "releaseDate": "15.04.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 1962700
+  },
+  {
+    "id": "u_7",
+    "title": "Slay the Spire 2",
+    "year": 2026,
+    "releaseDate": "05.03.2026",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": 2868840
+  },
+  {
+    "id": "u_8",
+    "title": "Gears of War: E-Day",
+    "year": 2027,
+    "releaseDate": "12.10.2027",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 3010850
+  },
+  {
+    "id": "u_9",
+    "title": "Fable (Reboot)",
+    "year": 2027,
+    "releaseDate": "05.11.2027",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC",
+      "PS5"
+    ],
+    "steamId": 2769570
+  },
+  {
+    "id": "u_10",
+    "title": "Max Payne 1 & 2 Remake",
+    "year": 2027,
+    "releaseDate": "22.10.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_11",
+    "title": "Control 2",
+    "year": 2027,
+    "releaseDate": "18.06.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_12",
+    "title": "Marvel's Wolverine",
+    "year": 2026,
+    "releaseDate": "15.09.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_13",
+    "title": "Intergalactic: The Heretic Prophet",
+    "year": 2027,
+    "releaseDate": "19.11.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_14",
+    "title": "Star Wars Jedi: Part III",
+    "year": 2027,
+    "releaseDate": "04.05.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_15",
+    "title": "Star Wars: Eclipse",
+    "year": 2028,
+    "releaseDate": "16.03.2028",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_16",
+    "title": "Star Wars: Knights of the Old Republic Remake",
+    "year": 2027,
+    "releaseDate": "26.11.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_17",
+    "title": "The Elder Scrolls VI",
+    "year": 2028,
+    "releaseDate": "11.11.2028",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox",
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_18",
+    "title": "Mass Effect 5 (Project Epsilon)",
+    "year": 2028,
+    "releaseDate": "07.11.2028",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_19",
+    "title": "Cyberpunk: Project Orion (Cyberpunk 2)",
+    "year": 2028,
+    "releaseDate": "10.12.2028",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_20",
+    "title": "Alien: Isolation 2",
+    "year": 2027,
+    "releaseDate": "07.10.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_21",
+    "title": "Resident Evil 9: Requiem",
+    "year": 2026,
+    "releaseDate": "27.02.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_22",
+    "title": "Silent Hill: Townfall",
+    "year": 2027,
+    "releaseDate": "13.08.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": 2124510
+  },
+  {
+    "id": "u_23",
+    "title": "Silent Hill f",
+    "year": 2025,
+    "releaseDate": "25.09.2025",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2947440
+  },
+  {
+    "id": "u_24",
+    "title": "Directive 8020",
+    "year": 2026,
+    "releaseDate": "12.05.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2255370
+  },
+  {
+    "id": "u_25",
+    "title": "Judas",
+    "year": 2027,
+    "releaseDate": "25.03.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2188960
+  },
+  {
+    "id": "u_26",
+    "title": "Exodus",
+    "year": 2027,
+    "releaseDate": "11.06.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 3230960
+  },
+  {
+    "id": "u_27",
+    "title": "Light No Fire",
+    "year": 2027,
+    "releaseDate": "20.08.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 2719590
+  },
+  {
+    "id": "u_28",
+    "title": "Crimson Desert",
+    "year": 2026,
+    "releaseDate": "19.03.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 3321460
+  },
+  {
+    "id": "u_29",
+    "title": "Vampire: The Masquerade – Bloodlines 2",
+    "year": 2025,
+    "releaseDate": "21.10.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 532790
+  },
+  {
+    "id": "u_30",
+    "title": "State of Decay 3",
+    "year": 2027,
+    "releaseDate": "14.09.2027",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC"
+    ],
+    "steamId": 1340720
+  },
+  {
+    "id": "u_31",
+    "title": "Tom Clancy's Splinter Cell Remake",
+    "year": 2027,
+    "releaseDate": "08.10.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_32",
+    "title": "Clockwork Revolution",
+    "year": 2027,
+    "releaseDate": "09.04.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Xbox"
+    ],
+    "steamId": 2439280
+  },
+  {
+    "id": "u_33",
+    "title": "Haunted Chocolatier",
+    "year": 2027,
+    "releaseDate": "03.12.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "Nintendo",
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_34",
+    "title": "Assetto Corsa EVO (1.0 Vollversion)",
+    "year": 2026,
+    "releaseDate": "18.12.2026",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": 3058630
+  },
+  {
+    "id": "u_35",
+    "title": "Forza Horizon 6",
+    "year": 2026,
+    "releaseDate": "19.05.2026",
+    "platform": "Xbox",
+    "platforms": [
+      "Xbox",
+      "PC",
+      "PS5"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_36",
+    "title": "Persona 6",
+    "year": 2027,
+    "releaseDate": "29.10.2027",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC",
+      "Xbox",
+      "Nintendo"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_37",
+    "title": "Ghost of Yōtei: Legends & Story-DLC",
+    "year": 2026,
+    "releaseDate": "15.12.2026",
+    "platform": "PS5",
+    "platforms": [
+      "PS5",
+      "PC"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_38",
+    "title": "Kingdom Come: Deliverance II – Mysteria Ecclesiae",
+    "year": 2025,
+    "releaseDate": "11.11.2025",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  },
+  {
+    "id": "u_39",
+    "title": "Metro 4 (Next-Gen)",
+    "year": 2027,
+    "releaseDate": "19.10.2027",
+    "platform": "PC",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox"
+    ],
+    "steamId": null
+  }
+]
