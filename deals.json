@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-20T07:00:12.140Z",
+  "updatedAt": "2026-11-21T06:56:25.260Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -49,6 +49,14 @@
       "priceEur": 19.99,
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1593500/"
+    },
+    "g22": {
+      "title": "Age of Empires II: The Age of Kings",
+      "appId": 813780,
+      "discountPct": 33,
+      "priceEur": 22.1,
+      "normalEur": 32.99,
+      "url": "https://store.steampowered.com/app/813780/"
     },
     "g23": {
       "title": "Anno 1800",
@@ -162,6 +170,14 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/731490/"
     },
+    "p2_26": {
+      "title": "Devil May Cry 3: Dante's Awakening",
+      "appId": 631510,
+      "discountPct": 67,
+      "priceEur": 9.89,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/631510/"
+    },
     "p3_1": {
       "title": "Star Wars Jedi: Survivor",
       "appId": 1774580,
@@ -266,6 +282,38 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/637670/"
     },
+    "p4_13": {
+      "title": "Halo: Combat Evolved",
+      "appId": 976730,
+      "discountPct": 75,
+      "priceEur": 9.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/976730/"
+    },
+    "p4_14": {
+      "title": "Halo 3",
+      "appId": 1064271,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/1064271/"
+    },
+    "p4_16": {
+      "title": "Forza Horizon 5",
+      "appId": 1551360,
+      "discountPct": 60,
+      "priceEur": 23.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/1551360/"
+    },
+    "p5_13": {
+      "title": "Ori and the Will of the Wisps",
+      "appId": 1057090,
+      "discountPct": 75,
+      "priceEur": 7.49,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/1057090/"
+    },
     "p6_3": {
       "title": "Helldivers 2",
       "appId": 553850,
@@ -274,6 +322,14 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/553850/"
     },
+    "p6_7": {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "appId": 1643320,
+      "discountPct": 30,
+      "priceEur": 55.99,
+      "normalEur": 79.99,
+      "url": "https://store.steampowered.com/app/1643320/"
+    },
     "p6_14": {
       "title": "Borderlands 2",
       "appId": 397540,
@@ -281,6 +337,30 @@
       "priceEur": 11.99,
       "normalEur": 79.99,
       "url": "https://store.steampowered.com/app/397540/"
+    },
+    "p6_15": {
+      "title": "Sea of Thieves",
+      "appId": 1172620,
+      "discountPct": 65,
+      "priceEur": 13.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/1172620/"
+    },
+    "p6_16": {
+      "title": "Microsoft Flight Simulator 2024",
+      "appId": 2537590,
+      "discountPct": 30,
+      "priceEur": 55.99,
+      "normalEur": 79.99,
+      "url": "https://store.steampowered.com/app/2537590/"
+    },
+    "p6_21": {
+      "title": "Ready or Not",
+      "appId": 1144200,
+      "discountPct": 50,
+      "priceEur": 24.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/1144200/"
     },
     "p6_24": {
       "title": "Marvel's Spider-Man Remastered",
@@ -337,6 +417,22 @@
       "priceEur": 5.99,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1238040/"
+    },
+    "e_rpg12": {
+      "title": "Pillars of Eternity",
+      "appId": 291650,
+      "discountPct": 75,
+      "priceEur": 7.49,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/291650/"
+    },
+    "e_rpg13": {
+      "title": "Pillars of Eternity II: Deadfire",
+      "appId": 560130,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/560130/"
     },
     "e_rpg22": {
       "title": "Grim Dawn",
@@ -426,6 +522,22 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1325200/"
     },
+    "e_rpg56": {
+      "title": "Wasteland 3",
+      "appId": 719040,
+      "discountPct": 70,
+      "priceEur": 10.19,
+      "normalEur": 33.99,
+      "url": "https://store.steampowered.com/app/719040/"
+    },
+    "e_rpg57": {
+      "title": "Fable Anniversary",
+      "appId": 288470,
+      "discountPct": 70,
+      "priceEur": 9.59,
+      "normalEur": 31.99,
+      "url": "https://store.steampowered.com/app/288470/"
+    },
     "e_rpg58": {
       "title": "South Park: Der Stab der Wahrheit",
       "appId": 213670,
@@ -433,6 +545,46 @@
       "priceEur": 7.49,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/213670/"
+    },
+    "e_str1": {
+      "title": "Age of Empires: Definitive Edition",
+      "appId": 1017900,
+      "discountPct": 33,
+      "priceEur": 13.39,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/1017900/"
+    },
+    "e_str2": {
+      "title": "Age of Empires III: Definitive Edition",
+      "appId": 933110,
+      "discountPct": 20,
+      "priceEur": 27.99,
+      "normalEur": 34.99,
+      "url": "https://store.steampowered.com/app/933110/"
+    },
+    "e_str3": {
+      "title": "Age of Empires IV",
+      "appId": 1466860,
+      "discountPct": 65,
+      "priceEur": 13.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/1466860/"
+    },
+    "e_str4": {
+      "title": "Age of Mythology: Retold",
+      "appId": 1934680,
+      "discountPct": 50,
+      "priceEur": 14.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/1934680/"
+    },
+    "e_str5": {
+      "title": "Rise of Nations: Extended Edition",
+      "appId": 287450,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/287450/"
     },
     "e_str14": {
       "title": "Supreme Commander: Forged Alliance",
@@ -465,6 +617,14 @@
       "priceEur": 2.49,
       "normalEur": 4.99,
       "url": "https://store.steampowered.com/app/33570/"
+    },
+    "e_str27": {
+      "title": "Port Royale 2",
+      "appId": 12470,
+      "discountPct": 60,
+      "priceEur": 2.35,
+      "normalEur": 5.89,
+      "url": "https://store.steampowered.com/app/12470/"
     },
     "e_str33": {
       "title": "Transport Fever 2",
@@ -594,6 +754,14 @@
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/337000/"
     },
+    "e_act44": {
+      "title": "Devil May Cry 5",
+      "appId": 601150,
+      "discountPct": 75,
+      "priceEur": 7.49,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/601150/"
+    },
     "e_act45": {
       "title": "Stellar Blade",
       "appId": 3489700,
@@ -609,6 +777,14 @@
       "priceEur": 24.99,
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1340990/"
+    },
+    "e_act52": {
+      "title": "Grounded",
+      "appId": 962130,
+      "discountPct": 60,
+      "priceEur": 15.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/962130/"
     },
     "e_fps12": {
       "title": "Metro Exodus",
@@ -633,6 +809,22 @@
       "priceEur": 4.49,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1237970/"
+    },
+    "e_fps24": {
+      "title": "Halo: Reach",
+      "appId": 1064220,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/1064220/"
+    },
+    "e_fps25": {
+      "title": "Halo 2",
+      "appId": 1064270,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/1064270/"
     },
     "e_fps30": {
       "title": "Battlefield 3",
@@ -682,6 +874,14 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/2630/"
     },
+    "e_fps37": {
+      "title": "Hunt: Showdown 1896",
+      "appId": 594650,
+      "discountPct": 65,
+      "priceEur": 13.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/594650/"
+    },
     "e_hor5": {
       "title": "Dead Space (Remake)",
       "appId": 1693980,
@@ -706,6 +906,14 @@
       "normalEur": 69.99,
       "url": "https://store.steampowered.com/app/2172010/"
     },
+    "e_adv15": {
+      "title": "Pentiment",
+      "appId": 1205520,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/1205520/"
+    },
     "e_adv18": {
       "title": "It Takes Two",
       "appId": 1426210,
@@ -721,6 +929,14 @@
       "priceEur": 5.99,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1222700/"
+    },
+    "e_plt4": {
+      "title": "Ori and the Blind Forest",
+      "appId": 387290,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/387290/"
     },
     "e_plt6": {
       "title": "Blasphemous 2",
@@ -1042,6 +1258,16 @@
         "note": "God of War (2018) im PS Plus Extra Spielekatalog"
       }
     },
+    "age of empires 2 the age of kings": {
+      "steam": {
+        "title": "Age of Empires II: The Age of Kings",
+        "appId": 813780,
+        "discountPct": 33,
+        "priceEur": 22.1,
+        "normalEur": 32.99,
+        "url": "https://store.steampowered.com/app/813780/"
+      }
+    },
     "anno 1800": {
       "steam": {
         "title": "Anno 1800",
@@ -1185,6 +1411,16 @@
         "priceEur": 15.99,
         "normalEur": 39.99,
         "url": "https://store.steampowered.com/app/731490/"
+      }
+    },
+    "devil may cry 3 dante s awakening": {
+      "steam": {
+        "title": "Devil May Cry 3: Dante's Awakening",
+        "appId": 631510,
+        "discountPct": 67,
+        "priceEur": 9.89,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/631510/"
       }
     },
     "star wars jedi survivor": {
@@ -1347,6 +1583,46 @@
         "url": "https://store.steampowered.com/app/637670/"
       }
     },
+    "halo combat evolved": {
+      "steam": {
+        "title": "Halo: Combat Evolved",
+        "appId": 976730,
+        "discountPct": 75,
+        "priceEur": 9.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/976730/"
+      }
+    },
+    "halo 3": {
+      "steam": {
+        "title": "Halo 3",
+        "appId": 1064271,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/1064271/"
+      }
+    },
+    "forza horizon 5": {
+      "steam": {
+        "title": "Forza Horizon 5",
+        "appId": 1551360,
+        "discountPct": 60,
+        "priceEur": 23.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/1551360/"
+      }
+    },
+    "ori and the will of the wisps": {
+      "steam": {
+        "title": "Ori and the Will of the Wisps",
+        "appId": 1057090,
+        "discountPct": 75,
+        "priceEur": 7.49,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/1057090/"
+      }
+    },
     "helldivers 2": {
       "steam": {
         "title": "Helldivers 2",
@@ -1357,6 +1633,16 @@
         "url": "https://store.steampowered.com/app/553850/"
       }
     },
+    "s t a l k e r 2 heart of chornobyl": {
+      "steam": {
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "appId": 1643320,
+        "discountPct": 30,
+        "priceEur": 55.99,
+        "normalEur": 79.99,
+        "url": "https://store.steampowered.com/app/1643320/"
+      }
+    },
     "borderlands 2": {
       "steam": {
         "title": "Borderlands 2",
@@ -1365,6 +1651,36 @@
         "priceEur": 11.99,
         "normalEur": 79.99,
         "url": "https://store.steampowered.com/app/397540/"
+      }
+    },
+    "sea of thieves": {
+      "steam": {
+        "title": "Sea of Thieves",
+        "appId": 1172620,
+        "discountPct": 65,
+        "priceEur": 13.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/1172620/"
+      }
+    },
+    "microsoft flight simulator 2024": {
+      "steam": {
+        "title": "Microsoft Flight Simulator 2024",
+        "appId": 2537590,
+        "discountPct": 30,
+        "priceEur": 55.99,
+        "normalEur": 79.99,
+        "url": "https://store.steampowered.com/app/2537590/"
+      }
+    },
+    "ready or not": {
+      "steam": {
+        "title": "Ready or Not",
+        "appId": 1144200,
+        "discountPct": 50,
+        "priceEur": 24.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/1144200/"
       }
     },
     "marvel s spider man remastered": {
@@ -1440,6 +1756,26 @@
         "priceEur": 5.99,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/1238040/"
+      }
+    },
+    "pillars of eternity": {
+      "steam": {
+        "title": "Pillars of Eternity",
+        "appId": 291650,
+        "discountPct": 75,
+        "priceEur": 7.49,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/291650/"
+      }
+    },
+    "pillars of eternity 2 deadfire": {
+      "steam": {
+        "title": "Pillars of Eternity II: Deadfire",
+        "appId": 560130,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/560130/"
       }
     },
     "grim dawn": {
@@ -1552,6 +1888,26 @@
         "url": "https://store.steampowered.com/app/1325200/"
       }
     },
+    "wasteland 3": {
+      "steam": {
+        "title": "Wasteland 3",
+        "appId": 719040,
+        "discountPct": 70,
+        "priceEur": 10.19,
+        "normalEur": 33.99,
+        "url": "https://store.steampowered.com/app/719040/"
+      }
+    },
+    "fable anniversary": {
+      "steam": {
+        "title": "Fable Anniversary",
+        "appId": 288470,
+        "discountPct": 70,
+        "priceEur": 9.59,
+        "normalEur": 31.99,
+        "url": "https://store.steampowered.com/app/288470/"
+      }
+    },
     "south park der stab der wahrheit": {
       "steam": {
         "title": "South Park: Der Stab der Wahrheit",
@@ -1560,6 +1916,56 @@
         "priceEur": 7.49,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/213670/"
+      }
+    },
+    "age of empires": {
+      "steam": {
+        "title": "Age of Empires: Definitive Edition",
+        "appId": 1017900,
+        "discountPct": 33,
+        "priceEur": 13.39,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/1017900/"
+      }
+    },
+    "age of empires 3": {
+      "steam": {
+        "title": "Age of Empires III: Definitive Edition",
+        "appId": 933110,
+        "discountPct": 20,
+        "priceEur": 27.99,
+        "normalEur": 34.99,
+        "url": "https://store.steampowered.com/app/933110/"
+      }
+    },
+    "age of empires 4": {
+      "steam": {
+        "title": "Age of Empires IV",
+        "appId": 1466860,
+        "discountPct": 65,
+        "priceEur": 13.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/1466860/"
+      }
+    },
+    "age of mythology retold": {
+      "steam": {
+        "title": "Age of Mythology: Retold",
+        "appId": 1934680,
+        "discountPct": 50,
+        "priceEur": 14.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/1934680/"
+      }
+    },
+    "rise of nations": {
+      "steam": {
+        "title": "Rise of Nations: Extended Edition",
+        "appId": 287450,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/287450/"
       }
     },
     "supreme commander forged alliance": {
@@ -1600,6 +2006,16 @@
         "priceEur": 2.49,
         "normalEur": 4.99,
         "url": "https://store.steampowered.com/app/33570/"
+      }
+    },
+    "port royale 2": {
+      "steam": {
+        "title": "Port Royale 2",
+        "appId": 12470,
+        "discountPct": 60,
+        "priceEur": 2.35,
+        "normalEur": 5.89,
+        "url": "https://store.steampowered.com/app/12470/"
       }
     },
     "transport fever 2": {
@@ -1777,6 +2193,16 @@
         "url": "https://store.steampowered.com/app/337000/"
       }
     },
+    "devil may cry 5": {
+      "steam": {
+        "title": "Devil May Cry 5",
+        "appId": 601150,
+        "discountPct": 75,
+        "priceEur": 7.49,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/601150/"
+      }
+    },
     "stellar blade": {
       "steam": {
         "title": "Stellar Blade",
@@ -1795,6 +2221,16 @@
         "priceEur": 24.99,
         "normalEur": 49.99,
         "url": "https://store.steampowered.com/app/1340990/"
+      }
+    },
+    "grounded": {
+      "steam": {
+        "title": "Grounded",
+        "appId": 962130,
+        "discountPct": 60,
+        "priceEur": 15.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/962130/"
       }
     },
     "metro exodus": {
@@ -1825,6 +2261,26 @@
         "priceEur": 4.49,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/1237970/"
+      }
+    },
+    "halo reach": {
+      "steam": {
+        "title": "Halo: Reach",
+        "appId": 1064220,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/1064220/"
+      }
+    },
+    "halo 2": {
+      "steam": {
+        "title": "Halo 2",
+        "appId": 1064270,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/1064270/"
       }
     },
     "battlefield 3": {
@@ -1887,6 +2343,16 @@
         "url": "https://store.steampowered.com/app/2630/"
       }
     },
+    "hunt showdown 1896": {
+      "steam": {
+        "title": "Hunt: Showdown 1896",
+        "appId": 594650,
+        "discountPct": 65,
+        "priceEur": 13.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/594650/"
+      }
+    },
     "dead space remake": {
       "steam": {
         "title": "Dead Space (Remake)",
@@ -1922,6 +2388,16 @@
         "url": "https://store.steampowered.com/app/2172010/"
       }
     },
+    "pentiment": {
+      "steam": {
+        "title": "Pentiment",
+        "appId": 1205520,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/1205520/"
+      }
+    },
     "it takes two": {
       "steam": {
         "title": "It Takes Two",
@@ -1940,6 +2416,16 @@
         "priceEur": 5.99,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/1222700/"
+      }
+    },
+    "ori and the blind forest": {
+      "steam": {
+        "title": "Ori and the Blind Forest",
+        "appId": 387290,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/387290/"
       }
     },
     "blasphemous 2": {
