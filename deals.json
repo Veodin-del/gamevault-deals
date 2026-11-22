@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-21T06:56:25.260Z",
+  "updatedAt": "2026-11-22T06:56:25.531Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -362,6 +362,14 @@
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1144200/"
     },
+    "p6_22": {
+      "title": "Outer Wilds",
+      "appId": 753640,
+      "discountPct": 50,
+      "priceEur": 11.49,
+      "normalEur": 22.99,
+      "url": "https://store.steampowered.com/app/753640/"
+    },
     "p6_24": {
       "title": "Marvel's Spider-Man Remastered",
       "appId": 1817070,
@@ -593,6 +601,22 @@
       "priceEur": 1.99,
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/9420/"
+    },
+    "e_str15": {
+      "title": "Homeworld Remastered Collection",
+      "appId": 244160,
+      "discountPct": 85,
+      "priceEur": 4.79,
+      "normalEur": 31.99,
+      "url": "https://store.steampowered.com/app/244160/"
+    },
+    "e_str18": {
+      "title": "Against the Storm",
+      "appId": 1336490,
+      "discountPct": 80,
+      "priceEur": 5.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/1336490/"
     },
     "e_str24": {
       "title": "Tropico 4",
@@ -906,6 +930,14 @@
       "normalEur": 69.99,
       "url": "https://store.steampowered.com/app/2172010/"
     },
+    "e_adv10": {
+      "title": "What Remains of Edith Finch",
+      "appId": 501300,
+      "discountPct": 75,
+      "priceEur": 4.62,
+      "normalEur": 18.49,
+      "url": "https://store.steampowered.com/app/501300/"
+    },
     "e_adv15": {
       "title": "Pentiment",
       "appId": 1205520,
@@ -945,6 +977,14 @@
       "priceEur": 15.29,
       "normalEur": 44.99,
       "url": "https://store.steampowered.com/app/2114740/"
+    },
+    "e_plt16": {
+      "title": "Hotline Miami",
+      "appId": 219150,
+      "discountPct": 80,
+      "priceEur": 1.95,
+      "normalEur": 9.75,
+      "url": "https://store.steampowered.com/app/219150/"
     },
     "e_plt18": {
       "title": "The Binding of Isaac: Rebirth",
@@ -1683,6 +1723,16 @@
         "url": "https://store.steampowered.com/app/1144200/"
       }
     },
+    "outer wilds": {
+      "steam": {
+        "title": "Outer Wilds",
+        "appId": 753640,
+        "discountPct": 50,
+        "priceEur": 11.49,
+        "normalEur": 22.99,
+        "url": "https://store.steampowered.com/app/753640/"
+      }
+    },
     "marvel s spider man remastered": {
       "steam": {
         "title": "Marvel's Spider-Man Remastered",
@@ -1976,6 +2026,26 @@
         "priceEur": 1.99,
         "normalEur": 9.99,
         "url": "https://store.steampowered.com/app/9420/"
+      }
+    },
+    "homeworld remastered collection": {
+      "steam": {
+        "title": "Homeworld Remastered Collection",
+        "appId": 244160,
+        "discountPct": 85,
+        "priceEur": 4.79,
+        "normalEur": 31.99,
+        "url": "https://store.steampowered.com/app/244160/"
+      }
+    },
+    "against the storm": {
+      "steam": {
+        "title": "Against the Storm",
+        "appId": 1336490,
+        "discountPct": 80,
+        "priceEur": 5.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/1336490/"
       }
     },
     "tropico 4": {
@@ -2388,6 +2458,16 @@
         "url": "https://store.steampowered.com/app/2172010/"
       }
     },
+    "what remains of edith finch": {
+      "steam": {
+        "title": "What Remains of Edith Finch",
+        "appId": 501300,
+        "discountPct": 75,
+        "priceEur": 4.62,
+        "normalEur": 18.49,
+        "url": "https://store.steampowered.com/app/501300/"
+      }
+    },
     "pentiment": {
       "steam": {
         "title": "Pentiment",
@@ -2436,6 +2516,16 @@
         "priceEur": 15.29,
         "normalEur": 44.99,
         "url": "https://store.steampowered.com/app/2114740/"
+      }
+    },
+    "hotline miami": {
+      "steam": {
+        "title": "Hotline Miami",
+        "appId": 219150,
+        "discountPct": 80,
+        "priceEur": 1.95,
+        "normalEur": 9.75,
+        "url": "https://store.steampowered.com/app/219150/"
       }
     },
     "the binding of isaac rebirth": {
