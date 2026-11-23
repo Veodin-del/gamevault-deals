@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-22T06:56:25.531Z",
+  "updatedAt": "2026-11-23T07:19:04.812Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -650,14 +650,6 @@
       "normalEur": 5.89,
       "url": "https://store.steampowered.com/app/12470/"
     },
-    "e_str33": {
-      "title": "Transport Fever 2",
-      "appId": 1066780,
-      "discountPct": 80,
-      "priceEur": 7.99,
-      "normalEur": 39.99,
-      "url": "https://store.steampowered.com/app/1066780/"
-    },
     "e_str36": {
       "title": "Total War: Warhammer III",
       "appId": 1142710,
@@ -697,6 +689,14 @@
       "priceEur": 2.49,
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/15170/"
+    },
+    "e_str55": {
+      "title": "Darkest Dungeon",
+      "appId": 262060,
+      "discountPct": 85,
+      "priceEur": 3.44,
+      "normalEur": 22.99,
+      "url": "https://store.steampowered.com/app/262060/"
     },
     "e_act9": {
       "title": "Days Gone",
@@ -2088,16 +2088,6 @@
         "url": "https://store.steampowered.com/app/12470/"
       }
     },
-    "transport fever 2": {
-      "steam": {
-        "title": "Transport Fever 2",
-        "appId": 1066780,
-        "discountPct": 80,
-        "priceEur": 7.99,
-        "normalEur": 39.99,
-        "url": "https://store.steampowered.com/app/1066780/"
-      }
-    },
     "total war warhammer 3": {
       "steam": {
         "title": "Total War: Warhammer III",
@@ -2146,6 +2136,16 @@
         "priceEur": 2.49,
         "normalEur": 9.99,
         "url": "https://store.steampowered.com/app/15170/"
+      }
+    },
+    "darkest dungeon": {
+      "steam": {
+        "title": "Darkest Dungeon",
+        "appId": 262060,
+        "discountPct": 85,
+        "priceEur": 3.44,
+        "normalEur": 22.99,
+        "url": "https://store.steampowered.com/app/262060/"
       }
     },
     "days gone": {
