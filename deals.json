@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-23T07:19:04.812Z",
+  "updatedAt": "2026-11-24T07:01:52.959Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -10,6 +10,22 @@
     "psPlus": true
   },
   "steamSales": {
+    "g4": {
+      "title": "Red Dead Redemption 2",
+      "appId": 1174180,
+      "discountPct": 75,
+      "priceEur": 14.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    "g5": {
+      "title": "Baldur's Gate 3",
+      "appId": 1086940,
+      "discountPct": 30,
+      "priceEur": 41.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
     "g8": {
       "title": "Kingdom Come: Deliverance II",
       "appId": 1771300,
@@ -50,6 +66,14 @@
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1593500/"
     },
+    "g17": {
+      "title": "The Elder Scrolls V: Skyrim",
+      "appId": 489830,
+      "discountPct": 67,
+      "priceEur": 16.49,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/489830/"
+    },
     "g22": {
       "title": "Age of Empires II: The Age of Kings",
       "appId": 813780,
@@ -66,6 +90,14 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/916440/"
     },
+    "g30": {
+      "title": "Dark Souls III",
+      "appId": 374320,
+      "discountPct": 50,
+      "priceEur": 29.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/374320/"
+    },
     "p1_2": {
       "title": "Crusader Kings III",
       "appId": 1158310,
@@ -73,6 +105,22 @@
       "priceEur": 14.99,
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1158310/"
+    },
+    "p1_3": {
+      "title": "Stellaris",
+      "appId": 281990,
+      "discountPct": 70,
+      "priceEur": 14.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/281990/"
+    },
+    "p1_4": {
+      "title": "Europa Universalis IV",
+      "appId": 236850,
+      "discountPct": 80,
+      "priceEur": 11.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/236850/"
     },
     "p1_5": {
       "title": "Hearts of Iron IV",
@@ -89,6 +137,30 @@
       "priceEur": 3.49,
       "normalEur": 6.99,
       "url": "https://store.steampowered.com/app/6910/"
+    },
+    "p1_27": {
+      "title": "The Elder Scrolls III: Morrowind",
+      "appId": 22320,
+      "discountPct": 75,
+      "priceEur": 3.74,
+      "normalEur": 14.99,
+      "url": "https://store.steampowered.com/app/22320/"
+    },
+    "p1_28": {
+      "title": "The Elder Scrolls IV: Oblivion",
+      "appId": 22330,
+      "discountPct": 80,
+      "priceEur": 2.99,
+      "normalEur": 14.99,
+      "url": "https://store.steampowered.com/app/22330/"
+    },
+    "p1_29": {
+      "title": "Fallout: New Vegas",
+      "appId": 22380,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/22380/"
     },
     "p1_31": {
       "title": "Civilization VI",
@@ -114,6 +186,14 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/24780/"
     },
+    "p1_35": {
+      "title": "Cities: Skylines",
+      "appId": 255710,
+      "discountPct": 70,
+      "priceEur": 8.39,
+      "normalEur": 27.99,
+      "url": "https://store.steampowered.com/app/255710/"
+    },
     "p1_36": {
       "title": "Crysis",
       "appId": 17300,
@@ -121,6 +201,30 @@
       "priceEur": 7.49,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/17300/"
+    },
+    "p1_37": {
+      "title": "Far Cry",
+      "appId": 13520,
+      "discountPct": 70,
+      "priceEur": 2.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/13520/"
+    },
+    "p1_39": {
+      "title": "Mafia: The City of Lost Heaven",
+      "appId": 40990,
+      "discountPct": 67,
+      "priceEur": 3.29,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/40990/"
+    },
+    "p1_44": {
+      "title": "Manor Lords",
+      "appId": 1363080,
+      "discountPct": 35,
+      "priceEur": 25.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/1363080/"
     },
     "p1_45": {
       "title": "Anno 2070",
@@ -266,6 +370,22 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/1850570/"
     },
+    "p3_20": {
+      "title": "Detroit: Become Human",
+      "appId": 1222140,
+      "discountPct": 90,
+      "priceEur": 3.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/1222140/"
+    },
+    "p3_21": {
+      "title": "Batman: Arkham City",
+      "appId": 200260,
+      "discountPct": 80,
+      "priceEur": 3.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/200260/"
+    },
     "p4_8": {
       "title": "Chrono Trigger",
       "appId": 613830,
@@ -354,6 +474,22 @@
       "normalEur": 79.99,
       "url": "https://store.steampowered.com/app/2537590/"
     },
+    "p6_17": {
+      "title": "Indiana Jones und der Große Kreis",
+      "appId": 2677660,
+      "discountPct": 40,
+      "priceEur": 41.99,
+      "normalEur": 69.99,
+      "url": "https://store.steampowered.com/app/2677660/"
+    },
+    "p6_20": {
+      "title": "DOOM: The Dark Ages",
+      "appId": 3017860,
+      "discountPct": 50,
+      "priceEur": 24.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/3017860/"
+    },
     "p6_21": {
       "title": "Ready or Not",
       "appId": 1144200,
@@ -370,6 +506,14 @@
       "normalEur": 22.99,
       "url": "https://store.steampowered.com/app/753640/"
     },
+    "p6_23": {
+      "title": "Hogwarts Legacy",
+      "appId": 990080,
+      "discountPct": 90,
+      "priceEur": 5.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/990080/"
+    },
     "p6_24": {
       "title": "Marvel's Spider-Man Remastered",
       "appId": 1817070,
@@ -378,6 +522,14 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1817070/"
     },
+    "p6_26": {
+      "title": "Mafia: The Old Country",
+      "appId": 1941540,
+      "discountPct": 40,
+      "priceEur": 29.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/1941540/"
+    },
     "p6_29": {
       "title": "Dragon Age: Origins",
       "appId": 47810,
@@ -385,6 +537,22 @@
       "priceEur": 5.99,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/47810/"
+    },
+    "e_rpg1": {
+      "title": "Divinity: Original Sin II",
+      "appId": 435150,
+      "discountPct": 75,
+      "priceEur": 11.24,
+      "normalEur": 44.99,
+      "url": "https://store.steampowered.com/app/435150/"
+    },
+    "e_rpg2": {
+      "title": "Divinity: Original Sin (Enhanced Edition)",
+      "appId": 373420,
+      "discountPct": 90,
+      "priceEur": 3.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/373420/"
     },
     "e_rpg3": {
       "title": "Mass Effect",
@@ -450,6 +618,46 @@
       "normalEur": 25.99,
       "url": "https://store.steampowered.com/app/219990/"
     },
+    "e_rpg25": {
+      "title": "Fallout (1997)",
+      "appId": 38400,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/38400/"
+    },
+    "e_rpg26": {
+      "title": "Fallout 2",
+      "appId": 38410,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/38410/"
+    },
+    "e_rpg27": {
+      "title": "Fallout 3",
+      "appId": 22370,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/22370/"
+    },
+    "e_rpg28": {
+      "title": "Fallout 4",
+      "appId": 377160,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/377160/"
+    },
+    "e_rpg30": {
+      "title": "Starfield",
+      "appId": 1716740,
+      "discountPct": 50,
+      "priceEur": 24.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/1716740/"
+    },
     "e_rpg36": {
       "title": "NieR: Automata",
       "appId": 524220,
@@ -514,6 +722,22 @@
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/595520/"
     },
+    "e_rpg45": {
+      "title": "Dark Souls: Remastered",
+      "appId": 570940,
+      "discountPct": 50,
+      "priceEur": 19.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/570940/"
+    },
+    "e_rpg46": {
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "appId": 335300,
+      "discountPct": 50,
+      "priceEur": 19.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/335300/"
+    },
     "e_rpg47": {
       "title": "Lies of P",
       "appId": 1627720,
@@ -529,6 +753,14 @@
       "priceEur": 23.99,
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1325200/"
+    },
+    "e_rpg55": {
+      "title": "Kenshi",
+      "appId": 233860,
+      "discountPct": 60,
+      "priceEur": 10.79,
+      "normalEur": 26.99,
+      "url": "https://store.steampowered.com/app/233860/"
     },
     "e_rpg56": {
       "title": "Wasteland 3",
@@ -618,6 +850,22 @@
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1336490/"
     },
+    "e_str19": {
+      "title": "They Are Billions",
+      "appId": 644930,
+      "discountPct": 10,
+      "priceEur": 26.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/644930/"
+    },
+    "e_str21": {
+      "title": "Workers & Resources: Soviet Republic",
+      "appId": 784150,
+      "discountPct": 75,
+      "priceEur": 9.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/784150/"
+    },
     "e_str24": {
       "title": "Tropico 4",
       "appId": 57690,
@@ -634,14 +882,6 @@
       "normalEur": 44.99,
       "url": "https://store.steampowered.com/app/492720/"
     },
-    "e_str26": {
-      "title": "Patrizier II: Gold",
-      "appId": 33570,
-      "discountPct": 50,
-      "priceEur": 2.49,
-      "normalEur": 4.99,
-      "url": "https://store.steampowered.com/app/33570/"
-    },
     "e_str27": {
       "title": "Port Royale 2",
       "appId": 12470,
@@ -649,6 +889,22 @@
       "priceEur": 2.35,
       "normalEur": 5.89,
       "url": "https://store.steampowered.com/app/12470/"
+    },
+    "e_str29": {
+      "title": "RollerCoaster Tycoon Deluxe",
+      "appId": 285310,
+      "discountPct": 75,
+      "priceEur": 1.49,
+      "normalEur": 5.99,
+      "url": "https://store.steampowered.com/app/285310/"
+    },
+    "e_str30": {
+      "title": "RollerCoaster Tycoon 2",
+      "appId": 285330,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/285330/"
     },
     "e_str36": {
       "title": "Total War: Warhammer III",
@@ -682,6 +938,30 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/10500/"
     },
+    "e_str41": {
+      "title": "Victoria II",
+      "appId": 42960,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/42960/"
+    },
+    "e_str44": {
+      "title": "Sid Meier's Civilization VII",
+      "appId": 1295660,
+      "discountPct": 50,
+      "priceEur": 49.99,
+      "normalEur": 99.99,
+      "url": "https://store.steampowered.com/app/1295660/"
+    },
+    "e_str46": {
+      "title": "Heroes of Might and Magic III",
+      "appId": 297000,
+      "discountPct": 75,
+      "priceEur": 12.49,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/297000/"
+    },
     "e_str47": {
       "title": "Heroes of Might and Magic V",
       "appId": 15170,
@@ -697,6 +977,30 @@
       "priceEur": 3.44,
       "normalEur": 22.99,
       "url": "https://store.steampowered.com/app/262060/"
+    },
+    "e_act4": {
+      "title": "Max Payne 2: The Fall of Max Payne",
+      "appId": 12150,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/12150/"
+    },
+    "e_act5": {
+      "title": "Max Payne 3",
+      "appId": 204100,
+      "discountPct": 70,
+      "priceEur": 5.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/204100/"
+    },
+    "e_act7": {
+      "title": "Mafia: Definitive Edition",
+      "appId": 1030840,
+      "discountPct": 80,
+      "priceEur": 7.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/1030840/"
     },
     "e_act9": {
       "title": "Days Gone",
@@ -730,6 +1034,38 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/552520/"
     },
+    "e_act22": {
+      "title": "Batman: Arkham Asylum",
+      "appId": 35140,
+      "discountPct": 85,
+      "priceEur": 2.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/35140/"
+    },
+    "e_act23": {
+      "title": "Batman: Arkham Knight",
+      "appId": 208650,
+      "discountPct": 80,
+      "priceEur": 3.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/208650/"
+    },
+    "e_act24": {
+      "title": "Mittelerde: Mordors Schatten",
+      "appId": 241930,
+      "discountPct": 80,
+      "priceEur": 3.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/241930/"
+    },
+    "e_act25": {
+      "title": "Mittelerde: Schatten des Krieges",
+      "appId": 356190,
+      "discountPct": 90,
+      "priceEur": 3.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/356190/"
+    },
     "e_act26": {
       "title": "Marvel's Spider-Man: Miles Morales",
       "appId": 1817190,
@@ -746,6 +1082,14 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1088850/"
     },
+    "e_act32": {
+      "title": "Prince of Persia: The Sands of Time",
+      "appId": 13600,
+      "discountPct": 80,
+      "priceEur": 1.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/13600/"
+    },
     "e_act35": {
       "title": "Hitman: World of Assassination (Hitman 3)",
       "appId": 1659040,
@@ -761,6 +1105,30 @@
       "priceEur": 2.49,
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/13570/"
+    },
+    "e_act38": {
+      "title": "Dishonored: Die Maske des Zorns",
+      "appId": 205100,
+      "discountPct": 75,
+      "priceEur": 2.49,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/205100/"
+    },
+    "e_act39": {
+      "title": "Dishonored 2: Das Vermächtnis der Maske",
+      "appId": 403640,
+      "discountPct": 80,
+      "priceEur": 5.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/403640/"
+    },
+    "e_act40": {
+      "title": "Prey (2017)",
+      "appId": 480490,
+      "discountPct": 80,
+      "priceEur": 7.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/480490/"
     },
     "e_act41": {
       "title": "Deus Ex: Human Revolution",
@@ -809,6 +1177,70 @@
       "priceEur": 15.99,
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/962130/"
+    },
+    "e_fps1": {
+      "title": "DOOM (1993)",
+      "appId": 2280,
+      "discountPct": 60,
+      "priceEur": 3.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/2280/"
+    },
+    "e_fps2": {
+      "title": "DOOM (2016)",
+      "appId": 379720,
+      "discountPct": 80,
+      "priceEur": 3.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/379720/"
+    },
+    "e_fps3": {
+      "title": "DOOM Eternal",
+      "appId": 782330,
+      "discountPct": 67,
+      "priceEur": 9.89,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/782330/"
+    },
+    "e_fps5": {
+      "title": "Wolfenstein: The New Order",
+      "appId": 201810,
+      "discountPct": 75,
+      "priceEur": 4.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/201810/"
+    },
+    "e_fps6": {
+      "title": "Wolfenstein II: The New Colossus",
+      "appId": 612880,
+      "discountPct": 85,
+      "priceEur": 4.49,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/612880/"
+    },
+    "e_fps7": {
+      "title": "Return to Castle Wolfenstein",
+      "appId": 9010,
+      "discountPct": 60,
+      "priceEur": 1.99,
+      "normalEur": 4.99,
+      "url": "https://store.steampowered.com/app/9010/"
+    },
+    "e_fps8": {
+      "title": "Quake",
+      "appId": 2310,
+      "discountPct": 60,
+      "priceEur": 3.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/2310/"
+    },
+    "e_fps9": {
+      "title": "Quake II",
+      "appId": 2320,
+      "discountPct": 60,
+      "priceEur": 3.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/2320/"
     },
     "e_fps12": {
       "title": "Metro Exodus",
@@ -922,6 +1354,14 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/47780/"
     },
+    "e_hor11": {
+      "title": "The Evil Within",
+      "appId": 268050,
+      "discountPct": 75,
+      "priceEur": 6.24,
+      "normalEur": 24.99,
+      "url": "https://store.steampowered.com/app/268050/"
+    },
     "e_hor13": {
       "title": "Until Dawn",
       "appId": 2172010,
@@ -937,6 +1377,14 @@
       "priceEur": 4.62,
       "normalEur": 18.49,
       "url": "https://store.steampowered.com/app/501300/"
+    },
+    "e_adv14": {
+      "title": "Heavy Rain",
+      "appId": 960910,
+      "discountPct": 90,
+      "priceEur": 1.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/960910/"
     },
     "e_adv15": {
       "title": "Pentiment",
@@ -954,6 +1402,14 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/1426210/"
     },
+    "e_adv19": {
+      "title": "Split Fiction",
+      "appId": 2001120,
+      "discountPct": 40,
+      "priceEur": 29.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/2001120/"
+    },
     "e_adv20": {
       "title": "A Way Out",
       "appId": 1222700,
@@ -961,6 +1417,14 @@
       "priceEur": 5.99,
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1222700/"
+    },
+    "e_plt2": {
+      "title": "Celeste",
+      "appId": 504230,
+      "discountPct": 75,
+      "priceEur": 4.74,
+      "normalEur": 18.99,
+      "url": "https://store.steampowered.com/app/504230/"
     },
     "e_plt4": {
       "title": "Ori and the Blind Forest",
@@ -970,13 +1434,13 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/387290/"
     },
-    "e_plt6": {
-      "title": "Blasphemous 2",
-      "appId": 2114740,
-      "discountPct": 66,
-      "priceEur": 15.29,
-      "normalEur": 44.99,
-      "url": "https://store.steampowered.com/app/2114740/"
+    "e_plt12": {
+      "title": "DREDGE",
+      "appId": 1562430,
+      "discountPct": 60,
+      "priceEur": 10.79,
+      "normalEur": 26.99,
+      "url": "https://store.steampowered.com/app/1562430/"
     },
     "e_plt16": {
       "title": "Hotline Miami",
@@ -985,14 +1449,6 @@
       "priceEur": 1.95,
       "normalEur": 9.75,
       "url": "https://store.steampowered.com/app/219150/"
-    },
-    "e_plt18": {
-      "title": "The Binding of Isaac: Rebirth",
-      "appId": 250900,
-      "discountPct": 20,
-      "priceEur": 11.99,
-      "normalEur": 14.99,
-      "url": "https://store.steampowered.com/app/250900/"
     },
     "e_rac4": {
       "title": "Assetto Corsa",
@@ -1042,6 +1498,22 @@
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1778820/"
     },
+    "e_fig5": {
+      "title": "Mortal Kombat 11",
+      "appId": 976310,
+      "discountPct": 90,
+      "priceEur": 4.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/976310/"
+    },
+    "e_fig6": {
+      "title": "Mortal Kombat 1 (2023)",
+      "appId": 1971870,
+      "discountPct": 85,
+      "priceEur": 7.49,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/1971870/"
+    },
     "u_7": {
       "title": "Slay the Spire 2",
       "appId": 2868840,
@@ -1057,6 +1529,14 @@
       "priceEur": 55.99,
       "normalEur": 69.99,
       "url": "https://store.steampowered.com/app/3321460/"
+    },
+    "u_29": {
+      "title": "Vampire: The Masquerade – Bloodlines 2",
+      "appId": 532790,
+      "discountPct": 50,
+      "priceEur": 29.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/532790/"
     }
   },
   "psSales": {},
@@ -1233,6 +1713,26 @@
     }
   },
   "titleIndex": {
+    "red dead redemption 2": {
+      "steam": {
+        "title": "Red Dead Redemption 2",
+        "appId": 1174180,
+        "discountPct": 75,
+        "priceEur": 14.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/1174180/"
+      }
+    },
+    "baldur s gate 3": {
+      "steam": {
+        "title": "Baldur's Gate 3",
+        "appId": 1086940,
+        "discountPct": 30,
+        "priceEur": 41.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/1086940/"
+      }
+    },
     "kingdom come deliverance 2": {
       "steam": {
         "title": "Kingdom Come: Deliverance II",
@@ -1298,6 +1798,21 @@
         "note": "God of War (2018) im PS Plus Extra Spielekatalog"
       }
     },
+    "the elder scrolls 5 skyrim": {
+      "steam": {
+        "title": "The Elder Scrolls V: Skyrim",
+        "appId": 489830,
+        "discountPct": 67,
+        "priceEur": 16.49,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/489830/"
+      },
+      "psPlus": {
+        "title": "The Elder Scrolls V: Skyrim",
+        "tier": "Extra",
+        "note": "Skyrim Special Edition im PS Plus Extra Spielekatalog"
+      }
+    },
     "age of empires 2 the age of kings": {
       "steam": {
         "title": "Age of Empires II: The Age of Kings",
@@ -1323,6 +1838,16 @@
         "note": "Anno 1800 Console Edition im PS Plus Extra Spielekatalog"
       }
     },
+    "dark souls 3": {
+      "steam": {
+        "title": "Dark Souls III",
+        "appId": 374320,
+        "discountPct": 50,
+        "priceEur": 29.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/374320/"
+      }
+    },
     "crusader kings 3": {
       "steam": {
         "title": "Crusader Kings III",
@@ -1331,6 +1856,26 @@
         "priceEur": 14.99,
         "normalEur": 49.99,
         "url": "https://store.steampowered.com/app/1158310/"
+      }
+    },
+    "stellaris": {
+      "steam": {
+        "title": "Stellaris",
+        "appId": 281990,
+        "discountPct": 70,
+        "priceEur": 14.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/281990/"
+      }
+    },
+    "europa universalis 4": {
+      "steam": {
+        "title": "Europa Universalis IV",
+        "appId": 236850,
+        "discountPct": 80,
+        "priceEur": 11.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/236850/"
       }
     },
     "hearts of iron 4": {
@@ -1351,6 +1896,36 @@
         "priceEur": 3.49,
         "normalEur": 6.99,
         "url": "https://store.steampowered.com/app/6910/"
+      }
+    },
+    "the elder scrolls 3 morrowind": {
+      "steam": {
+        "title": "The Elder Scrolls III: Morrowind",
+        "appId": 22320,
+        "discountPct": 75,
+        "priceEur": 3.74,
+        "normalEur": 14.99,
+        "url": "https://store.steampowered.com/app/22320/"
+      }
+    },
+    "the elder scrolls 4 oblivion": {
+      "steam": {
+        "title": "The Elder Scrolls IV: Oblivion",
+        "appId": 22330,
+        "discountPct": 80,
+        "priceEur": 2.99,
+        "normalEur": 14.99,
+        "url": "https://store.steampowered.com/app/22330/"
+      }
+    },
+    "fallout new vegas": {
+      "steam": {
+        "title": "Fallout: New Vegas",
+        "appId": 22380,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/22380/"
       }
     },
     "civilization 6": {
@@ -1383,6 +1958,21 @@
         "url": "https://store.steampowered.com/app/24780/"
       }
     },
+    "cities skylines": {
+      "steam": {
+        "title": "Cities: Skylines",
+        "appId": 255710,
+        "discountPct": 70,
+        "priceEur": 8.39,
+        "normalEur": 27.99,
+        "url": "https://store.steampowered.com/app/255710/"
+      },
+      "psPlus": {
+        "title": "Cities: Skylines",
+        "tier": "Extra",
+        "note": "Cities: Skylines im PS Plus Extra Spielekatalog"
+      }
+    },
     "crysis": {
       "steam": {
         "title": "Crysis",
@@ -1391,6 +1981,36 @@
         "priceEur": 7.49,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/17300/"
+      }
+    },
+    "far cry": {
+      "steam": {
+        "title": "Far Cry",
+        "appId": 13520,
+        "discountPct": 70,
+        "priceEur": 2.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/13520/"
+      }
+    },
+    "mafia the city of lost heaven": {
+      "steam": {
+        "title": "Mafia: The City of Lost Heaven",
+        "appId": 40990,
+        "discountPct": 67,
+        "priceEur": 3.29,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/40990/"
+      }
+    },
+    "manor lords": {
+      "steam": {
+        "title": "Manor Lords",
+        "appId": 1363080,
+        "discountPct": 35,
+        "priceEur": 25.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/1363080/"
       }
     },
     "anno 2070": {
@@ -1603,6 +2223,31 @@
         "note": "Death Stranding Director's Cut im PS Plus Extra Katalog"
       }
     },
+    "detroit become human": {
+      "steam": {
+        "title": "Detroit: Become Human",
+        "appId": 1222140,
+        "discountPct": 90,
+        "priceEur": 3.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/1222140/"
+      },
+      "psPlus": {
+        "title": "Detroit: Become Human",
+        "tier": "Extra",
+        "note": "Im PlayStation Plus Extra Spielekatalog enthalten"
+      }
+    },
+    "batman arkham city": {
+      "steam": {
+        "title": "Batman: Arkham City",
+        "appId": 200260,
+        "discountPct": 80,
+        "priceEur": 3.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/200260/"
+      }
+    },
     "chrono trigger": {
       "steam": {
         "title": "Chrono Trigger",
@@ -1713,6 +2358,26 @@
         "url": "https://store.steampowered.com/app/2537590/"
       }
     },
+    "indiana jones und der grosse kreis": {
+      "steam": {
+        "title": "Indiana Jones und der Große Kreis",
+        "appId": 2677660,
+        "discountPct": 40,
+        "priceEur": 41.99,
+        "normalEur": 69.99,
+        "url": "https://store.steampowered.com/app/2677660/"
+      }
+    },
+    "doom the dark ages": {
+      "steam": {
+        "title": "DOOM: The Dark Ages",
+        "appId": 3017860,
+        "discountPct": 50,
+        "priceEur": 24.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/3017860/"
+      }
+    },
     "ready or not": {
       "steam": {
         "title": "Ready or Not",
@@ -1733,6 +2398,16 @@
         "url": "https://store.steampowered.com/app/753640/"
       }
     },
+    "hogwarts legacy": {
+      "steam": {
+        "title": "Hogwarts Legacy",
+        "appId": 990080,
+        "discountPct": 90,
+        "priceEur": 5.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/990080/"
+      }
+    },
     "marvel s spider man remastered": {
       "steam": {
         "title": "Marvel's Spider-Man Remastered",
@@ -1748,6 +2423,16 @@
         "note": "Marvel's Spider-Man im PS Plus Extra Spielekatalog"
       }
     },
+    "mafia the old country": {
+      "steam": {
+        "title": "Mafia: The Old Country",
+        "appId": 1941540,
+        "discountPct": 40,
+        "priceEur": 29.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/1941540/"
+      }
+    },
     "dragon age origins": {
       "steam": {
         "title": "Dragon Age: Origins",
@@ -1756,6 +2441,26 @@
         "priceEur": 5.99,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/47810/"
+      }
+    },
+    "divinity original sin 2": {
+      "steam": {
+        "title": "Divinity: Original Sin II",
+        "appId": 435150,
+        "discountPct": 75,
+        "priceEur": 11.24,
+        "normalEur": 44.99,
+        "url": "https://store.steampowered.com/app/435150/"
+      }
+    },
+    "divinity original sin": {
+      "steam": {
+        "title": "Divinity: Original Sin (Enhanced Edition)",
+        "appId": 373420,
+        "discountPct": 90,
+        "priceEur": 3.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/373420/"
       }
     },
     "mass effect": {
@@ -1838,6 +2543,61 @@
         "url": "https://store.steampowered.com/app/219990/"
       }
     },
+    "fallout 1997 original": {
+      "steam": {
+        "title": "Fallout (1997)",
+        "appId": 38400,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/38400/"
+      }
+    },
+    "fallout 2": {
+      "steam": {
+        "title": "Fallout 2",
+        "appId": 38410,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/38410/"
+      }
+    },
+    "fallout 3": {
+      "steam": {
+        "title": "Fallout 3",
+        "appId": 22370,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/22370/"
+      }
+    },
+    "fallout 4": {
+      "steam": {
+        "title": "Fallout 4",
+        "appId": 377160,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/377160/"
+      },
+      "psPlus": {
+        "title": "Fallout 4",
+        "tier": "Extra",
+        "note": "Fallout 4 im PS Plus Extra Spielekatalog"
+      }
+    },
+    "starfield": {
+      "steam": {
+        "title": "Starfield",
+        "appId": 1716740,
+        "discountPct": 50,
+        "priceEur": 24.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/1716740/"
+      }
+    },
     "nier automata": {
       "steam": {
         "title": "NieR: Automata",
@@ -1918,6 +2678,26 @@
         "url": "https://store.steampowered.com/app/595520/"
       }
     },
+    "dark souls remastered": {
+      "steam": {
+        "title": "Dark Souls: Remastered",
+        "appId": 570940,
+        "discountPct": 50,
+        "priceEur": 19.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/570940/"
+      }
+    },
+    "dark souls 2 scholar of the first sin": {
+      "steam": {
+        "title": "Dark Souls II: Scholar of the First Sin",
+        "appId": 335300,
+        "discountPct": 50,
+        "priceEur": 19.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/335300/"
+      }
+    },
     "lies of p": {
       "steam": {
         "title": "Lies of P",
@@ -1936,6 +2716,16 @@
         "priceEur": 23.99,
         "normalEur": 59.99,
         "url": "https://store.steampowered.com/app/1325200/"
+      }
+    },
+    "kenshi": {
+      "steam": {
+        "title": "Kenshi",
+        "appId": 233860,
+        "discountPct": 60,
+        "priceEur": 10.79,
+        "normalEur": 26.99,
+        "url": "https://store.steampowered.com/app/233860/"
       }
     },
     "wasteland 3": {
@@ -2048,6 +2838,26 @@
         "url": "https://store.steampowered.com/app/1336490/"
       }
     },
+    "they are billions": {
+      "steam": {
+        "title": "They Are Billions",
+        "appId": 644930,
+        "discountPct": 10,
+        "priceEur": 26.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/644930/"
+      }
+    },
+    "workers & resources soviet republic": {
+      "steam": {
+        "title": "Workers & Resources: Soviet Republic",
+        "appId": 784150,
+        "discountPct": 75,
+        "priceEur": 9.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/784150/"
+      }
+    },
     "tropico 4": {
       "steam": {
         "title": "Tropico 4",
@@ -2068,16 +2878,6 @@
         "url": "https://store.steampowered.com/app/492720/"
       }
     },
-    "patrizier 2 gold": {
-      "steam": {
-        "title": "Patrizier II: Gold",
-        "appId": 33570,
-        "discountPct": 50,
-        "priceEur": 2.49,
-        "normalEur": 4.99,
-        "url": "https://store.steampowered.com/app/33570/"
-      }
-    },
     "port royale 2": {
       "steam": {
         "title": "Port Royale 2",
@@ -2086,6 +2886,26 @@
         "priceEur": 2.35,
         "normalEur": 5.89,
         "url": "https://store.steampowered.com/app/12470/"
+      }
+    },
+    "rollercoaster tycoon deluxe": {
+      "steam": {
+        "title": "RollerCoaster Tycoon Deluxe",
+        "appId": 285310,
+        "discountPct": 75,
+        "priceEur": 1.49,
+        "normalEur": 5.99,
+        "url": "https://store.steampowered.com/app/285310/"
+      }
+    },
+    "rollercoaster tycoon 2": {
+      "steam": {
+        "title": "RollerCoaster Tycoon 2",
+        "appId": 285330,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/285330/"
       }
     },
     "total war warhammer 3": {
@@ -2128,6 +2948,36 @@
         "url": "https://store.steampowered.com/app/10500/"
       }
     },
+    "victoria 2": {
+      "steam": {
+        "title": "Victoria II",
+        "appId": 42960,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/42960/"
+      }
+    },
+    "sid meier s civilization 7": {
+      "steam": {
+        "title": "Sid Meier's Civilization VII",
+        "appId": 1295660,
+        "discountPct": 50,
+        "priceEur": 49.99,
+        "normalEur": 99.99,
+        "url": "https://store.steampowered.com/app/1295660/"
+      }
+    },
+    "heroes of might and magic 3": {
+      "steam": {
+        "title": "Heroes of Might and Magic III",
+        "appId": 297000,
+        "discountPct": 75,
+        "priceEur": 12.49,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/297000/"
+      }
+    },
     "heroes of might and magic 5": {
       "steam": {
         "title": "Heroes of Might and Magic V",
@@ -2146,6 +2996,36 @@
         "priceEur": 3.44,
         "normalEur": 22.99,
         "url": "https://store.steampowered.com/app/262060/"
+      }
+    },
+    "max payne 2 the fall of max payne": {
+      "steam": {
+        "title": "Max Payne 2: The Fall of Max Payne",
+        "appId": 12150,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/12150/"
+      }
+    },
+    "max payne 3": {
+      "steam": {
+        "title": "Max Payne 3",
+        "appId": 204100,
+        "discountPct": 70,
+        "priceEur": 5.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/204100/"
+      }
+    },
+    "mafia": {
+      "steam": {
+        "title": "Mafia: Definitive Edition",
+        "appId": 1030840,
+        "discountPct": 80,
+        "priceEur": 7.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/1030840/"
       }
     },
     "days gone": {
@@ -2193,6 +3073,46 @@
         "url": "https://store.steampowered.com/app/552520/"
       }
     },
+    "batman arkham asylum": {
+      "steam": {
+        "title": "Batman: Arkham Asylum",
+        "appId": 35140,
+        "discountPct": 85,
+        "priceEur": 2.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/35140/"
+      }
+    },
+    "batman arkham knight": {
+      "steam": {
+        "title": "Batman: Arkham Knight",
+        "appId": 208650,
+        "discountPct": 80,
+        "priceEur": 3.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/208650/"
+      }
+    },
+    "mittelerde mordors schatten": {
+      "steam": {
+        "title": "Mittelerde: Mordors Schatten",
+        "appId": 241930,
+        "discountPct": 80,
+        "priceEur": 3.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/241930/"
+      }
+    },
+    "mittelerde schatten des krieges": {
+      "steam": {
+        "title": "Mittelerde: Schatten des Krieges",
+        "appId": 356190,
+        "discountPct": 90,
+        "priceEur": 3.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/356190/"
+      }
+    },
     "marvel s spider man miles morales": {
       "steam": {
         "title": "Marvel's Spider-Man: Miles Morales",
@@ -2223,6 +3143,16 @@
         "note": "Marvel's Guardians of the Galaxy im PS Plus Extra Katalog"
       }
     },
+    "prince of persia the sands of time": {
+      "steam": {
+        "title": "Prince of Persia: The Sands of Time",
+        "appId": 13600,
+        "discountPct": 80,
+        "priceEur": 1.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/13600/"
+      }
+    },
     "hitman world of assassination hitman 3": {
       "steam": {
         "title": "Hitman: World of Assassination (Hitman 3)",
@@ -2241,6 +3171,36 @@
         "priceEur": 2.49,
         "normalEur": 9.99,
         "url": "https://store.steampowered.com/app/13570/"
+      }
+    },
+    "dishonored die maske des zorns": {
+      "steam": {
+        "title": "Dishonored: Die Maske des Zorns",
+        "appId": 205100,
+        "discountPct": 75,
+        "priceEur": 2.49,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/205100/"
+      }
+    },
+    "dishonored 2 das vermachtnis der maske": {
+      "steam": {
+        "title": "Dishonored 2: Das Vermächtnis der Maske",
+        "appId": 403640,
+        "discountPct": 80,
+        "priceEur": 5.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/403640/"
+      }
+    },
+    "prey 2017": {
+      "steam": {
+        "title": "Prey (2017)",
+        "appId": 480490,
+        "discountPct": 80,
+        "priceEur": 7.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/480490/"
       }
     },
     "deus ex human revolution": {
@@ -2301,6 +3261,96 @@
         "priceEur": 15.99,
         "normalEur": 39.99,
         "url": "https://store.steampowered.com/app/962130/"
+      }
+    },
+    "doom 1993 original": {
+      "steam": {
+        "title": "DOOM (1993)",
+        "appId": 2280,
+        "discountPct": 60,
+        "priceEur": 3.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/2280/"
+      }
+    },
+    "doom 2016": {
+      "steam": {
+        "title": "DOOM (2016)",
+        "appId": 379720,
+        "discountPct": 80,
+        "priceEur": 3.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/379720/"
+      },
+      "psPlus": {
+        "title": "DOOM (2016)",
+        "tier": "Extra",
+        "note": "DOOM (2016) im PS Plus Extra Spielekatalog"
+      }
+    },
+    "doom eternal": {
+      "steam": {
+        "title": "DOOM Eternal",
+        "appId": 782330,
+        "discountPct": 67,
+        "priceEur": 9.89,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/782330/"
+      },
+      "psPlus": {
+        "title": "DOOM Eternal",
+        "tier": "Extra",
+        "note": "DOOM Eternal im PS Plus Extra Spielekatalog"
+      }
+    },
+    "wolfenstein the new order": {
+      "steam": {
+        "title": "Wolfenstein: The New Order",
+        "appId": 201810,
+        "discountPct": 75,
+        "priceEur": 4.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/201810/"
+      }
+    },
+    "wolfenstein 2 the new colossus": {
+      "steam": {
+        "title": "Wolfenstein II: The New Colossus",
+        "appId": 612880,
+        "discountPct": 85,
+        "priceEur": 4.49,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/612880/"
+      }
+    },
+    "return to castle wolfenstein": {
+      "steam": {
+        "title": "Return to Castle Wolfenstein",
+        "appId": 9010,
+        "discountPct": 60,
+        "priceEur": 1.99,
+        "normalEur": 4.99,
+        "url": "https://store.steampowered.com/app/9010/"
+      }
+    },
+    "quake": {
+      "steam": {
+        "title": "Quake",
+        "appId": 2310,
+        "discountPct": 60,
+        "priceEur": 3.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/2310/"
+      }
+    },
+    "quake 2": {
+      "steam": {
+        "title": "Quake II",
+        "appId": 2320,
+        "discountPct": 60,
+        "priceEur": 3.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/2320/"
       }
     },
     "metro exodus": {
@@ -2448,6 +3498,16 @@
         "url": "https://store.steampowered.com/app/47780/"
       }
     },
+    "the evil within": {
+      "steam": {
+        "title": "The Evil Within",
+        "appId": 268050,
+        "discountPct": 75,
+        "priceEur": 6.24,
+        "normalEur": 24.99,
+        "url": "https://store.steampowered.com/app/268050/"
+      }
+    },
     "until dawn": {
       "steam": {
         "title": "Until Dawn",
@@ -2466,6 +3526,16 @@
         "priceEur": 4.62,
         "normalEur": 18.49,
         "url": "https://store.steampowered.com/app/501300/"
+      }
+    },
+    "heavy rain": {
+      "steam": {
+        "title": "Heavy Rain",
+        "appId": 960910,
+        "discountPct": 90,
+        "priceEur": 1.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/960910/"
       }
     },
     "pentiment": {
@@ -2488,6 +3558,16 @@
         "url": "https://store.steampowered.com/app/1426210/"
       }
     },
+    "split fiction": {
+      "steam": {
+        "title": "Split Fiction",
+        "appId": 2001120,
+        "discountPct": 40,
+        "priceEur": 29.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/2001120/"
+      }
+    },
     "a way out": {
       "steam": {
         "title": "A Way Out",
@@ -2496,6 +3576,16 @@
         "priceEur": 5.99,
         "normalEur": 29.99,
         "url": "https://store.steampowered.com/app/1222700/"
+      }
+    },
+    "celeste": {
+      "steam": {
+        "title": "Celeste",
+        "appId": 504230,
+        "discountPct": 75,
+        "priceEur": 4.74,
+        "normalEur": 18.99,
+        "url": "https://store.steampowered.com/app/504230/"
       }
     },
     "ori and the blind forest": {
@@ -2508,14 +3598,19 @@
         "url": "https://store.steampowered.com/app/387290/"
       }
     },
-    "blasphemous 2": {
+    "dredge": {
       "steam": {
-        "title": "Blasphemous 2",
-        "appId": 2114740,
-        "discountPct": 66,
-        "priceEur": 15.29,
-        "normalEur": 44.99,
-        "url": "https://store.steampowered.com/app/2114740/"
+        "title": "DREDGE",
+        "appId": 1562430,
+        "discountPct": 60,
+        "priceEur": 10.79,
+        "normalEur": 26.99,
+        "url": "https://store.steampowered.com/app/1562430/"
+      },
+      "psPlus": {
+        "title": "DREDGE",
+        "tier": "Extra",
+        "note": "DREDGE im PS Plus Extra Spielekatalog"
       }
     },
     "hotline miami": {
@@ -2526,16 +3621,6 @@
         "priceEur": 1.95,
         "normalEur": 9.75,
         "url": "https://store.steampowered.com/app/219150/"
-      }
-    },
-    "the binding of isaac rebirth": {
-      "steam": {
-        "title": "The Binding of Isaac: Rebirth",
-        "appId": 250900,
-        "discountPct": 20,
-        "priceEur": 11.99,
-        "normalEur": 14.99,
-        "url": "https://store.steampowered.com/app/250900/"
       }
     },
     "assetto corsa": {
@@ -2598,6 +3683,26 @@
         "url": "https://store.steampowered.com/app/1778820/"
       }
     },
+    "mortal kombat 11": {
+      "steam": {
+        "title": "Mortal Kombat 11",
+        "appId": 976310,
+        "discountPct": 90,
+        "priceEur": 4.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/976310/"
+      }
+    },
+    "mortal kombat 1 2023": {
+      "steam": {
+        "title": "Mortal Kombat 1 (2023)",
+        "appId": 1971870,
+        "discountPct": 85,
+        "priceEur": 7.49,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/1971870/"
+      }
+    },
     "slay the spire 2": {
       "steam": {
         "title": "Slay the Spire 2",
@@ -2618,6 +3723,16 @@
         "url": "https://store.steampowered.com/app/3321460/"
       }
     },
+    "vampire the masquerade bloodlines 2": {
+      "steam": {
+        "title": "Vampire: The Masquerade – Bloodlines 2",
+        "appId": 532790,
+        "discountPct": 50,
+        "priceEur": 29.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/532790/"
+      }
+    },
     "bloodborne": {
       "psPlus": {
         "title": "Bloodborne",
@@ -2628,13 +3743,6 @@
     "demon s souls remake": {
       "psPlus": {
         "title": "Demon's Souls (Remake)",
-        "tier": "Extra",
-        "note": "Im PlayStation Plus Extra Spielekatalog enthalten"
-      }
-    },
-    "detroit become human": {
-      "psPlus": {
-        "title": "Detroit: Become Human",
         "tier": "Extra",
         "note": "Im PlayStation Plus Extra Spielekatalog enthalten"
       }
@@ -2681,41 +3789,6 @@
         "note": "Dave the Diver im PS Plus Extra Spielekatalog"
       }
     },
-    "dredge": {
-      "psPlus": {
-        "title": "DREDGE",
-        "tier": "Extra",
-        "note": "DREDGE im PS Plus Extra Spielekatalog"
-      }
-    },
-    "doom 2016": {
-      "psPlus": {
-        "title": "DOOM (2016)",
-        "tier": "Extra",
-        "note": "DOOM (2016) im PS Plus Extra Spielekatalog"
-      }
-    },
-    "doom eternal": {
-      "psPlus": {
-        "title": "DOOM Eternal",
-        "tier": "Extra",
-        "note": "DOOM Eternal im PS Plus Extra Spielekatalog"
-      }
-    },
-    "the elder scrolls 5 skyrim": {
-      "psPlus": {
-        "title": "The Elder Scrolls V: Skyrim",
-        "tier": "Extra",
-        "note": "Skyrim Special Edition im PS Plus Extra Spielekatalog"
-      }
-    },
-    "fallout 4": {
-      "psPlus": {
-        "title": "Fallout 4",
-        "tier": "Extra",
-        "note": "Fallout 4 im PS Plus Extra Spielekatalog"
-      }
-    },
     "assassin s creed origins": {
       "psPlus": {
         "title": "Assassin's Creed Origins",
@@ -2742,13 +3815,6 @@
         "title": "Silent Hill 2 (Remake)",
         "tier": "Extra",
         "note": "Silent Hill 2 Remake im PS Plus Extra Katalog"
-      }
-    },
-    "cities skylines": {
-      "psPlus": {
-        "title": "Cities: Skylines",
-        "tier": "Extra",
-        "note": "Cities: Skylines im PS Plus Extra Spielekatalog"
       }
     }
   }
