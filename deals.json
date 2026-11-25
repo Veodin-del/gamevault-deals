@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-24T07:01:52.959Z",
+  "updatedAt": "2026-11-25T07:05:26.333Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -426,6 +426,22 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1551360/"
     },
+    "p5_5": {
+      "title": "Hades",
+      "appId": 1145360,
+      "discountPct": 75,
+      "priceEur": 6.12,
+      "normalEur": 24.5,
+      "url": "https://store.steampowered.com/app/1145360/"
+    },
+    "p5_6": {
+      "title": "Hades II",
+      "appId": 1145350,
+      "discountPct": 30,
+      "priceEur": 20.29,
+      "normalEur": 28.99,
+      "url": "https://store.steampowered.com/app/1145350/"
+    },
     "p5_13": {
       "title": "Ori and the Will of the Wisps",
       "appId": 1057090,
@@ -441,6 +457,14 @@
       "priceEur": 29.99,
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/553850/"
+    },
+    "p6_4": {
+      "title": "Warhammer 40,000: Space Marine 2",
+      "appId": 2183900,
+      "discountPct": 75,
+      "priceEur": 14.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/2183900/"
     },
     "p6_7": {
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
@@ -906,6 +930,14 @@
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/285330/"
     },
+    "e_str32": {
+      "title": "Planet Zoo",
+      "appId": 703080,
+      "discountPct": 70,
+      "priceEur": 16.49,
+      "normalEur": 54.99,
+      "url": "https://store.steampowered.com/app/703080/"
+    },
     "e_str36": {
       "title": "Total War: Warhammer III",
       "appId": 1142710,
@@ -1017,14 +1049,6 @@
       "priceEur": 4.99,
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/220240/"
-    },
-    "e_act13": {
-      "title": "Far Cry 4",
-      "appId": 298110,
-      "discountPct": 80,
-      "priceEur": 5.99,
-      "normalEur": 29.99,
-      "url": "https://store.steampowered.com/app/298110/"
     },
     "e_act14": {
       "title": "Far Cry 5",
@@ -1482,13 +1506,13 @@
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1328660/"
     },
-    "e_rac13": {
-      "title": "Euro Truck Simulator 2",
-      "appId": 227300,
-      "discountPct": 75,
-      "priceEur": 4.99,
-      "normalEur": 19.99,
-      "url": "https://store.steampowered.com/app/227300/"
+    "e_rac14": {
+      "title": "SnowRunner",
+      "appId": 1465360,
+      "discountPct": 60,
+      "priceEur": 11.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/1465360/"
     },
     "e_fig3": {
       "title": "Tekken 8",
@@ -2298,6 +2322,26 @@
         "url": "https://store.steampowered.com/app/1551360/"
       }
     },
+    "hades": {
+      "steam": {
+        "title": "Hades",
+        "appId": 1145360,
+        "discountPct": 75,
+        "priceEur": 6.12,
+        "normalEur": 24.5,
+        "url": "https://store.steampowered.com/app/1145360/"
+      }
+    },
+    "hades 2": {
+      "steam": {
+        "title": "Hades II",
+        "appId": 1145350,
+        "discountPct": 30,
+        "priceEur": 20.29,
+        "normalEur": 28.99,
+        "url": "https://store.steampowered.com/app/1145350/"
+      }
+    },
     "ori and the will of the wisps": {
       "steam": {
         "title": "Ori and the Will of the Wisps",
@@ -2316,6 +2360,16 @@
         "priceEur": 29.99,
         "normalEur": 39.99,
         "url": "https://store.steampowered.com/app/553850/"
+      }
+    },
+    "warhammer 40 000 space marine 2": {
+      "steam": {
+        "title": "Warhammer 40,000: Space Marine 2",
+        "appId": 2183900,
+        "discountPct": 75,
+        "priceEur": 14.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/2183900/"
       }
     },
     "s t a l k e r 2 heart of chornobyl": {
@@ -2908,6 +2962,16 @@
         "url": "https://store.steampowered.com/app/285330/"
       }
     },
+    "planet zoo": {
+      "steam": {
+        "title": "Planet Zoo",
+        "appId": 703080,
+        "discountPct": 70,
+        "priceEur": 16.49,
+        "normalEur": 54.99,
+        "url": "https://store.steampowered.com/app/703080/"
+      }
+    },
     "total war warhammer 3": {
       "steam": {
         "title": "Total War: Warhammer III",
@@ -3051,16 +3115,6 @@
         "priceEur": 4.99,
         "normalEur": 19.99,
         "url": "https://store.steampowered.com/app/220240/"
-      }
-    },
-    "far cry 4": {
-      "steam": {
-        "title": "Far Cry 4",
-        "appId": 298110,
-        "discountPct": 80,
-        "priceEur": 5.99,
-        "normalEur": 29.99,
-        "url": "https://store.steampowered.com/app/298110/"
       }
     },
     "far cry 5": {
@@ -3663,14 +3717,14 @@
         "url": "https://store.steampowered.com/app/1328660/"
       }
     },
-    "euro truck simulator 2": {
+    "snowrunner": {
       "steam": {
-        "title": "Euro Truck Simulator 2",
-        "appId": 227300,
-        "discountPct": 75,
-        "priceEur": 4.99,
-        "normalEur": 19.99,
-        "url": "https://store.steampowered.com/app/227300/"
+        "title": "SnowRunner",
+        "appId": 1465360,
+        "discountPct": 60,
+        "priceEur": 11.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/1465360/"
       }
     },
     "tekken 8": {
