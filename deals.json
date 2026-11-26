@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-25T07:05:26.333Z",
+  "updatedAt": "2026-11-26T07:03:56.050Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -385,6 +385,14 @@
       "priceEur": 3.99,
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/200260/"
+    },
+    "p3_23": {
+      "title": "Silent Hill 2 (Remake)",
+      "appId": 2124490,
+      "discountPct": 72,
+      "priceEur": 19.59,
+      "normalEur": 69.99,
+      "url": "https://store.steampowered.com/app/2124490/"
     },
     "p4_8": {
       "title": "Chrono Trigger",
@@ -1002,6 +1010,14 @@
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/15170/"
     },
+    "e_str50": {
+      "title": "Shadow Tactics: Blades of the Shogun",
+      "appId": 418240,
+      "discountPct": 90,
+      "priceEur": 3.99,
+      "normalEur": 39.99,
+      "url": "https://store.steampowered.com/app/418240/"
+    },
     "e_str55": {
       "title": "Darkest Dungeon",
       "appId": 262060,
@@ -1113,6 +1129,14 @@
       "priceEur": 1.99,
       "normalEur": 9.99,
       "url": "https://store.steampowered.com/app/13600/"
+    },
+    "e_act34": {
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "appId": 287700,
+      "discountPct": 40,
+      "priceEur": 17.99,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/287700/"
     },
     "e_act35": {
       "title": "Hitman: World of Assassination (Hitman 3)",
@@ -1362,6 +1386,22 @@
       "normalEur": 39.99,
       "url": "https://store.steampowered.com/app/594650/"
     },
+    "e_fps38": {
+      "title": "Hell Let Loose",
+      "appId": 686810,
+      "discountPct": 75,
+      "priceEur": 12.49,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/686810/"
+    },
+    "e_fps41": {
+      "title": "ULTRAKILL",
+      "appId": 1229490,
+      "discountPct": 25,
+      "priceEur": 16.11,
+      "normalEur": 21.49,
+      "url": "https://store.steampowered.com/app/1229490/"
+    },
     "e_hor5": {
       "title": "Dead Space (Remake)",
       "appId": 1693980,
@@ -1393,6 +1433,22 @@
       "priceEur": 34.99,
       "normalEur": 69.99,
       "url": "https://store.steampowered.com/app/2172010/"
+    },
+    "e_adv5": {
+      "title": "Deponia",
+      "appId": 214340,
+      "discountPct": 90,
+      "priceEur": 0.99,
+      "normalEur": 9.99,
+      "url": "https://store.steampowered.com/app/214340/"
+    },
+    "e_adv6": {
+      "title": "Edna Bricht Aus",
+      "appId": 959000,
+      "discountPct": 90,
+      "priceEur": 1.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/959000/"
     },
     "e_adv10": {
       "title": "What Remains of Edith Finch",
@@ -1545,6 +1601,14 @@
       "priceEur": 18.39,
       "normalEur": 22.99,
       "url": "https://store.steampowered.com/app/2868840/"
+    },
+    "u_23": {
+      "title": "Silent Hill f",
+      "appId": 2947440,
+      "discountPct": 72,
+      "priceEur": 19.59,
+      "normalEur": 69.99,
+      "url": "https://store.steampowered.com/app/2947440/"
     },
     "u_28": {
       "title": "Crimson Desert",
@@ -2270,6 +2334,21 @@
         "priceEur": 3.99,
         "normalEur": 19.99,
         "url": "https://store.steampowered.com/app/200260/"
+      }
+    },
+    "silent hill 2 remake": {
+      "steam": {
+        "title": "Silent Hill 2 (Remake)",
+        "appId": 2124490,
+        "discountPct": 72,
+        "priceEur": 19.59,
+        "normalEur": 69.99,
+        "url": "https://store.steampowered.com/app/2124490/"
+      },
+      "psPlus": {
+        "title": "Silent Hill 2 (Remake)",
+        "tier": "Extra",
+        "note": "Silent Hill 2 Remake im PS Plus Extra Katalog"
       }
     },
     "chrono trigger": {
@@ -3052,6 +3131,16 @@
         "url": "https://store.steampowered.com/app/15170/"
       }
     },
+    "shadow tactics blades of the shogun": {
+      "steam": {
+        "title": "Shadow Tactics: Blades of the Shogun",
+        "appId": 418240,
+        "discountPct": 90,
+        "priceEur": 3.99,
+        "normalEur": 39.99,
+        "url": "https://store.steampowered.com/app/418240/"
+      }
+    },
     "darkest dungeon": {
       "steam": {
         "title": "Darkest Dungeon",
@@ -3205,6 +3294,16 @@
         "priceEur": 1.99,
         "normalEur": 9.99,
         "url": "https://store.steampowered.com/app/13600/"
+      }
+    },
+    "metal gear solid 5 the phantom pain": {
+      "steam": {
+        "title": "Metal Gear Solid V: The Phantom Pain",
+        "appId": 287700,
+        "discountPct": 40,
+        "priceEur": 17.99,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/287700/"
       }
     },
     "hitman world of assassination hitman 3": {
@@ -3527,6 +3626,26 @@
         "url": "https://store.steampowered.com/app/594650/"
       }
     },
+    "hell let loose": {
+      "steam": {
+        "title": "Hell Let Loose",
+        "appId": 686810,
+        "discountPct": 75,
+        "priceEur": 12.49,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/686810/"
+      }
+    },
+    "ultrakill": {
+      "steam": {
+        "title": "ULTRAKILL",
+        "appId": 1229490,
+        "discountPct": 25,
+        "priceEur": 16.11,
+        "normalEur": 21.49,
+        "url": "https://store.steampowered.com/app/1229490/"
+      }
+    },
     "dead space remake": {
       "steam": {
         "title": "Dead Space (Remake)",
@@ -3570,6 +3689,26 @@
         "priceEur": 34.99,
         "normalEur": 69.99,
         "url": "https://store.steampowered.com/app/2172010/"
+      }
+    },
+    "deponia": {
+      "steam": {
+        "title": "Deponia",
+        "appId": 214340,
+        "discountPct": 90,
+        "priceEur": 0.99,
+        "normalEur": 9.99,
+        "url": "https://store.steampowered.com/app/214340/"
+      }
+    },
+    "edna bricht aus": {
+      "steam": {
+        "title": "Edna Bricht Aus",
+        "appId": 959000,
+        "discountPct": 90,
+        "priceEur": 1.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/959000/"
       }
     },
     "what remains of edith finch": {
@@ -3767,6 +3906,16 @@
         "url": "https://store.steampowered.com/app/2868840/"
       }
     },
+    "silent hill f": {
+      "steam": {
+        "title": "Silent Hill f",
+        "appId": 2947440,
+        "discountPct": 72,
+        "priceEur": 19.59,
+        "normalEur": 69.99,
+        "url": "https://store.steampowered.com/app/2947440/"
+      }
+    },
     "crimson desert": {
       "steam": {
         "title": "Crimson Desert",
@@ -3862,13 +4011,6 @@
         "title": "Assassin's Creed Valhalla",
         "tier": "Extra",
         "note": "Assassin's Creed Valhalla im PS Plus Extra Katalog"
-      }
-    },
-    "silent hill 2 remake": {
-      "psPlus": {
-        "title": "Silent Hill 2 (Remake)",
-        "tier": "Extra",
-        "note": "Silent Hill 2 Remake im PS Plus Extra Katalog"
       }
     }
   }
