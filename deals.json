@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-26T07:03:56.050Z",
+  "updatedAt": "2026-11-27T07:05:05.129Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -10,6 +10,14 @@
     "psPlus": true
   },
   "steamSales": {
+    "g1": {
+      "title": "The Witcher 3: Wild Hunt",
+      "appId": 292030,
+      "discountPct": 60,
+      "priceEur": 19.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/292030/"
+    },
     "g4": {
       "title": "Red Dead Redemption 2",
       "appId": 1174180,
@@ -25,6 +33,14 @@
       "priceEur": 41.99,
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1086940/"
+    },
+    "g7": {
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "appId": 1091500,
+      "discountPct": 70,
+      "priceEur": 17.99,
+      "normalEur": 59.99,
+      "url": "https://store.steampowered.com/app/1091500/"
     },
     "g8": {
       "title": "Kingdom Come: Deliverance II",
@@ -121,14 +137,6 @@
       "priceEur": 11.99,
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/236850/"
-    },
-    "p1_5": {
-      "title": "Hearts of Iron IV",
-      "appId": 394360,
-      "discountPct": 70,
-      "priceEur": 14.99,
-      "normalEur": 49.99,
-      "url": "https://store.steampowered.com/app/394360/"
     },
     "p1_23": {
       "title": "Deus Ex",
@@ -561,6 +569,22 @@
       "priceEur": 29.99,
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1941540/"
+    },
+    "p6_27": {
+      "title": "The Witcher (Enhanced Edition)",
+      "appId": 20900,
+      "discountPct": 85,
+      "priceEur": 1.19,
+      "normalEur": 7.99,
+      "url": "https://store.steampowered.com/app/20900/"
+    },
+    "p6_28": {
+      "title": "The Witcher 2: Assassins of Kings",
+      "appId": 20920,
+      "discountPct": 85,
+      "priceEur": 2.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/20920/"
     },
     "p6_29": {
       "title": "Dragon Age: Origins",
@@ -1498,6 +1522,14 @@
       "normalEur": 29.99,
       "url": "https://store.steampowered.com/app/1222700/"
     },
+    "e_plt1": {
+      "title": "Cuphead",
+      "appId": 268910,
+      "discountPct": 30,
+      "priceEur": 13.99,
+      "normalEur": 19.99,
+      "url": "https://store.steampowered.com/app/268910/"
+    },
     "e_plt2": {
       "title": "Celeste",
       "appId": 504230,
@@ -1514,6 +1546,14 @@
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/387290/"
     },
+    "e_plt6": {
+      "title": "Blasphemous 2",
+      "appId": 2114740,
+      "discountPct": 75,
+      "priceEur": 7.49,
+      "normalEur": 29.99,
+      "url": "https://store.steampowered.com/app/2114740/"
+    },
     "e_plt12": {
       "title": "DREDGE",
       "appId": 1562430,
@@ -1529,6 +1569,14 @@
       "priceEur": 1.95,
       "normalEur": 9.75,
       "url": "https://store.steampowered.com/app/219150/"
+    },
+    "e_plt17": {
+      "title": "Katana ZERO",
+      "appId": 460950,
+      "discountPct": 40,
+      "priceEur": 8.87,
+      "normalEur": 14.79,
+      "url": "https://store.steampowered.com/app/460950/"
     },
     "e_rac4": {
       "title": "Assetto Corsa",
@@ -1593,14 +1641,6 @@
       "priceEur": 7.49,
       "normalEur": 49.99,
       "url": "https://store.steampowered.com/app/1971870/"
-    },
-    "u_7": {
-      "title": "Slay the Spire 2",
-      "appId": 2868840,
-      "discountPct": 20,
-      "priceEur": 18.39,
-      "normalEur": 22.99,
-      "url": "https://store.steampowered.com/app/2868840/"
     },
     "u_23": {
       "title": "Silent Hill f",
@@ -1801,6 +1841,16 @@
     }
   },
   "titleIndex": {
+    "the witcher 3 wild hunt": {
+      "steam": {
+        "title": "The Witcher 3: Wild Hunt",
+        "appId": 292030,
+        "discountPct": 60,
+        "priceEur": 19.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/292030/"
+      }
+    },
     "red dead redemption 2": {
       "steam": {
         "title": "Red Dead Redemption 2",
@@ -1819,6 +1869,16 @@
         "priceEur": 41.99,
         "normalEur": 59.99,
         "url": "https://store.steampowered.com/app/1086940/"
+      }
+    },
+    "cyberpunk 2077 phantom liberty": {
+      "steam": {
+        "title": "Cyberpunk 2077: Phantom Liberty",
+        "appId": 1091500,
+        "discountPct": 70,
+        "priceEur": 17.99,
+        "normalEur": 59.99,
+        "url": "https://store.steampowered.com/app/1091500/"
       }
     },
     "kingdom come deliverance 2": {
@@ -1964,16 +2024,6 @@
         "priceEur": 11.99,
         "normalEur": 59.99,
         "url": "https://store.steampowered.com/app/236850/"
-      }
-    },
-    "hearts of iron 4": {
-      "steam": {
-        "title": "Hearts of Iron IV",
-        "appId": 394360,
-        "discountPct": 70,
-        "priceEur": 14.99,
-        "normalEur": 49.99,
-        "url": "https://store.steampowered.com/app/394360/"
       }
     },
     "deus ex": {
@@ -2564,6 +2614,26 @@
         "priceEur": 29.99,
         "normalEur": 49.99,
         "url": "https://store.steampowered.com/app/1941540/"
+      }
+    },
+    "the witcher": {
+      "steam": {
+        "title": "The Witcher (Enhanced Edition)",
+        "appId": 20900,
+        "discountPct": 85,
+        "priceEur": 1.19,
+        "normalEur": 7.99,
+        "url": "https://store.steampowered.com/app/20900/"
+      }
+    },
+    "the witcher 2 assassins of kings": {
+      "steam": {
+        "title": "The Witcher 2: Assassins of Kings",
+        "appId": 20920,
+        "discountPct": 85,
+        "priceEur": 2.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/20920/"
       }
     },
     "dragon age origins": {
@@ -3771,6 +3841,16 @@
         "url": "https://store.steampowered.com/app/1222700/"
       }
     },
+    "cuphead": {
+      "steam": {
+        "title": "Cuphead",
+        "appId": 268910,
+        "discountPct": 30,
+        "priceEur": 13.99,
+        "normalEur": 19.99,
+        "url": "https://store.steampowered.com/app/268910/"
+      }
+    },
     "celeste": {
       "steam": {
         "title": "Celeste",
@@ -3789,6 +3869,16 @@
         "priceEur": 4.99,
         "normalEur": 19.99,
         "url": "https://store.steampowered.com/app/387290/"
+      }
+    },
+    "blasphemous 2": {
+      "steam": {
+        "title": "Blasphemous 2",
+        "appId": 2114740,
+        "discountPct": 75,
+        "priceEur": 7.49,
+        "normalEur": 29.99,
+        "url": "https://store.steampowered.com/app/2114740/"
       }
     },
     "dredge": {
@@ -3814,6 +3904,16 @@
         "priceEur": 1.95,
         "normalEur": 9.75,
         "url": "https://store.steampowered.com/app/219150/"
+      }
+    },
+    "katana zero": {
+      "steam": {
+        "title": "Katana ZERO",
+        "appId": 460950,
+        "discountPct": 40,
+        "priceEur": 8.87,
+        "normalEur": 14.79,
+        "url": "https://store.steampowered.com/app/460950/"
       }
     },
     "assetto corsa": {
@@ -3894,16 +3994,6 @@
         "priceEur": 7.49,
         "normalEur": 49.99,
         "url": "https://store.steampowered.com/app/1971870/"
-      }
-    },
-    "slay the spire 2": {
-      "steam": {
-        "title": "Slay the Spire 2",
-        "appId": 2868840,
-        "discountPct": 20,
-        "priceEur": 18.39,
-        "normalEur": 22.99,
-        "url": "https://store.steampowered.com/app/2868840/"
       }
     },
     "silent hill f": {
