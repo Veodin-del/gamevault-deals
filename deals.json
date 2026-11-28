@@ -1,7 +1,7 @@
 {
   "version": 3,
   "schemaVersion": 3,
-  "updatedAt": "2026-11-27T07:05:05.129Z",
+  "updatedAt": "2026-11-28T06:58:39.993Z",
   "region": "DE",
   "currency": "EUR",
   "sources": {
@@ -442,6 +442,14 @@
       "normalEur": 59.99,
       "url": "https://store.steampowered.com/app/1551360/"
     },
+    "p5_3": {
+      "title": "Disco Elysium: The Final Cut",
+      "appId": 632470,
+      "discountPct": 75,
+      "priceEur": 9.49,
+      "normalEur": 37.99,
+      "url": "https://store.steampowered.com/app/632470/"
+    },
     "p5_5": {
       "title": "Hades",
       "appId": 1145360,
@@ -457,6 +465,14 @@
       "priceEur": 20.29,
       "normalEur": 28.99,
       "url": "https://store.steampowered.com/app/1145350/"
+    },
+    "p5_11": {
+      "title": "RimWorld",
+      "appId": 294100,
+      "discountPct": 20,
+      "priceEur": 25.59,
+      "normalEur": 31.99,
+      "url": "https://store.steampowered.com/app/294100/"
     },
     "p5_13": {
       "title": "Ori and the Will of the Wisps",
@@ -665,6 +681,14 @@
       "priceEur": 4.99,
       "normalEur": 19.99,
       "url": "https://store.steampowered.com/app/560130/"
+    },
+    "e_rpg14": {
+      "title": "Pathfinder: Wrath of the Righteous",
+      "appId": 1184370,
+      "discountPct": 80,
+      "priceEur": 9.99,
+      "normalEur": 49.99,
+      "url": "https://store.steampowered.com/app/1184370/"
     },
     "e_rpg22": {
       "title": "Grim Dawn",
@@ -2451,6 +2475,16 @@
         "url": "https://store.steampowered.com/app/1551360/"
       }
     },
+    "disco elysium the final cut": {
+      "steam": {
+        "title": "Disco Elysium: The Final Cut",
+        "appId": 632470,
+        "discountPct": 75,
+        "priceEur": 9.49,
+        "normalEur": 37.99,
+        "url": "https://store.steampowered.com/app/632470/"
+      }
+    },
     "hades": {
       "steam": {
         "title": "Hades",
@@ -2469,6 +2503,16 @@
         "priceEur": 20.29,
         "normalEur": 28.99,
         "url": "https://store.steampowered.com/app/1145350/"
+      }
+    },
+    "rimworld": {
+      "steam": {
+        "title": "RimWorld",
+        "appId": 294100,
+        "discountPct": 20,
+        "priceEur": 25.59,
+        "normalEur": 31.99,
+        "url": "https://store.steampowered.com/app/294100/"
       }
     },
     "ori and the will of the wisps": {
@@ -2734,6 +2778,16 @@
         "priceEur": 4.99,
         "normalEur": 19.99,
         "url": "https://store.steampowered.com/app/560130/"
+      }
+    },
+    "pathfinder wrath of the righteous": {
+      "steam": {
+        "title": "Pathfinder: Wrath of the Righteous",
+        "appId": 1184370,
+        "discountPct": 80,
+        "priceEur": 9.99,
+        "normalEur": 49.99,
+        "url": "https://store.steampowered.com/app/1184370/"
       }
     },
     "grim dawn": {
